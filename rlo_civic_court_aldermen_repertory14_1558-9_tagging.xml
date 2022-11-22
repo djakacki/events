@@ -4010,14 +4010,12 @@
 	<text>
 		<body>
 			<div>
-				<head><title>Court of Aldermen, Repertory 14, <date from="1558" to="1559"
+				<head resp="rlo"><title>Court of Aldermen, Repertory 14, <date from="1558" to="1559"
 							>1558–9</date></title></head>
 			</div>
 			<div type="transcription">
 				<div>
-					<head>
-						<label>f 87v (<date when="1558-11-15">15 November</date>)</label>
-					</head>
+					<head resp="rlo">f 87v (<date when="1558-11-15">15 November</date>)</head>
 					<pb type="folio" n="87v"/>
 					<gap reason="omitted"/>
 					<note place="margin_left" type="marginal">Greves holyngbrydge &amp;
@@ -4030,9 +4028,7 @@
 				</div>
 
 				<div>
-					<head>
-						<label>ff 90v-1 (<date when="1558-11-19">19 November</date>)</label>
-					</head>
+					<head type="rlo">ff 90v-1 (<date when="1558-11-19">19 November</date>)</head>
 					<pb type="folio" n="90v"/>
 					<gap reason="omitted"/>
 					<note place="margin_left" type="marginal">Comen consilium</note>
@@ -4078,9 +4074,7 @@
 				</div>
 
 				<div>
-					<head>
-						<label>ff 97-8 (<date when="1558-12-07">7 December</date>)</label>
-					</head>
+					<head type="rlo">ff 97-8 (<date when="1558-12-07">7 December</date>)</head>
 					<pb type="folio" n="97"/>
 					<gap reason="omitted"/>
 					<note place="margin_right" type="marginal">Recognicio</note>
@@ -4384,9 +4378,7 @@
 				</div>
 
 				<div>
-					<head>
-						<label>f 99</label>
-					</head>
+					<head resp="rlo">f 99</head>
 					<pb type="folio" n="99"/>
 					<gap reason="omitted"/>
 					<note place="margin_right" type="marginal">pageauntes</note>
@@ -4405,9 +4397,7 @@
 				</div>
 
 				<div>
-					<head>
-						<label>ff 103v-4</label>
-					</head>
+					<head resp="rlo">>ff 103v-4</head>
 					<pb type="folio" n="103v"/>
 					<gap reason="omitted"/>
 					<note place="margin_left" type="marginal">pageauntes &amp; playne</note>
@@ -4454,7 +4444,7 @@
 
 			<div type="endnote">
 				<div>
-					<head><label>Endnotes</label></head>
+					<head resp="elo">Endnotes</head>
 					<p>For Williamson (f 87v), see also <ref
 							target="https://cwrc.ca/islandora/object/reed%3A78d19320-05a7-4f26-808e-81db9332b479"
 							>Repertory 14, ff 61v and 63v</ref> (under 1557–8). This record may be
