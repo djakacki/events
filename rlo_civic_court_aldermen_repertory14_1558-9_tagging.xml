@@ -418,88 +418,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133048042",
+	"id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?date_annotation_20221122133137997",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-11-22T18:30:48.042Z",
-	"dcterms:modified": "2022-11-22T18:30:50.154Z",
-	"dcterms:creator": {
-		"@type": [
-			"cwrc:NaturalPerson",
-			"schema:Person"
-		],
-		"cwrc:hasName": "Diane Jakacki"
-	},
-	"oa:motivatedBy": "oa:describing",
-	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133048042#Target",
-		"@type": "oa:SpecificResource",
-		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml",
-			"@type": "dctypes:Text",
-			"dc:format": "text/xml"
-		},
-		"oa:renderedVia": {
-			"@id": "https://leaf-writer.leaf-vre.org",
-			"@type": "as:Application",
-			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.3.0"
-		},
-		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133048042#Selector",
-			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[2]/div/note"
-		}
-	},
-	"oa:hasBody": {
-		"@type": "cwrc:Note",
-		"dc:format": "text/plain",
-		"rdf:value": "Greves holyngbrydge &\n\t\t\t\t\t\twilliamson"
-	},
-	"as:generator": {
-		"@id": "https://leaf-writer.leaf-vre.org",
-		"@type": "as:Application",
-		"rdfs:label": "LEAF-Writer",
-		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.3.0"
-	}
-}]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
-	"@context": {
-		"dcterms:created": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:created"
-		},
-		"dcterms:issued": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:issued"
-		},
-		"oa:motivatedBy": {
-			"@type": "oa:Motivation"
-		},
-		"@language": "en",
-		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-		"as": "http://www.w3.org/ns/activitystreams#",
-		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
-		"dc": "http://purl.org/dc/elements/1.1/",
-		"dcterms": "http://purl.org/dc/terms/",
-		"foaf": "http://xmlns.com/foaf/0.1/",
-		"geo": "http://www.geonames.org/ontology#",
-		"oa": "http://www.w3.org/ns/oa#",
-		"schema": "http://schema.org/",
-		"xsd": "http://www.w3.org/2001/XMLSchema#",
-		"fabio": "https://purl.org/spar/fabio#",
-		"bf": "http://www.openlinksw.com/schemas/bif#",
-		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
-		"org": "http://www.w3.org/ns/org#"
-	},
-	"id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?date_annotation_20221122133135106",
-	"type": "oa:Annotation",
-	"dcterms:created": "2022-11-22T18:31:35.106Z",
-	"dcterms:modified": "2022-11-22T18:31:37.997Z",
+	"dcterms:created": "2022-11-22T18:31:37.997Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -509,7 +430,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?date_annotation_20221122133135106#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?date_annotation_20221122133137997#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml",
@@ -523,7 +444,7 @@
 			"schema:softwareVersion": "2.3.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?date_annotation_20221122133135106#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?date_annotation_20221122133137997#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[2]/div[2]/head/date"
 		}
@@ -727,10 +648,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133331692",
+	"id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133354893",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-11-22T18:33:31.692Z",
-	"dcterms:modified": "2022-11-22T18:33:33.744Z",
+	"dcterms:created": "2022-11-22T18:33:54.893Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -740,7 +660,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133331692#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133354893#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml",
@@ -754,9 +674,9 @@
 			"schema:softwareVersion": "2.3.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133331692#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133354893#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[2]/div[2]/note"
+			"rdf:value": "TEI/text/body/div[2]/div[2]/ab/note"
 		}
 	},
 	"oa:hasBody": {
@@ -805,10 +725,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133353508",
+	"id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133424662",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-11-22T18:33:53.508Z",
-	"dcterms:modified": "2022-11-22T18:33:54.893Z",
+	"dcterms:created": "2022-11-22T18:34:24.662Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -818,7 +737,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133353508#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133424662#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml",
@@ -832,87 +751,9 @@
 			"schema:softwareVersion": "2.3.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133353508#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133424662#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[2]/div[2]/ab/note"
-		}
-	},
-	"oa:hasBody": {
-		"@type": "cwrc:Note",
-		"dc:format": "text/plain",
-		"rdf:value": "ij xvnes"
-	},
-	"as:generator": {
-		"@id": "https://leaf-writer.leaf-vre.org",
-		"@type": "as:Application",
-		"rdfs:label": "LEAF-Writer",
-		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.3.0"
-	}
-}]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
-	"@context": {
-		"dcterms:created": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:created"
-		},
-		"dcterms:issued": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:issued"
-		},
-		"oa:motivatedBy": {
-			"@type": "oa:Motivation"
-		},
-		"@language": "en",
-		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-		"as": "http://www.w3.org/ns/activitystreams#",
-		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
-		"dc": "http://purl.org/dc/elements/1.1/",
-		"dcterms": "http://purl.org/dc/terms/",
-		"foaf": "http://xmlns.com/foaf/0.1/",
-		"geo": "http://www.geonames.org/ontology#",
-		"oa": "http://www.w3.org/ns/oa#",
-		"schema": "http://schema.org/",
-		"xsd": "http://www.w3.org/2001/XMLSchema#",
-		"fabio": "https://purl.org/spar/fabio#",
-		"bf": "http://www.openlinksw.com/schemas/bif#",
-		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
-		"org": "http://www.w3.org/ns/org#"
-	},
-	"id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133401059",
-	"type": "oa:Annotation",
-	"dcterms:created": "2022-11-22T18:34:01.059Z",
-	"dcterms:modified": "2022-11-22T18:34:02.477Z",
-	"dcterms:creator": {
-		"@type": [
-			"cwrc:NaturalPerson",
-			"schema:Person"
-		],
-		"cwrc:hasName": "Diane Jakacki"
-	},
-	"oa:motivatedBy": "oa:describing",
-	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133401059#Target",
-		"@type": "oa:SpecificResource",
-		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml",
-			"@type": "dctypes:Text",
-			"dc:format": "text/xml"
-		},
-		"oa:renderedVia": {
-			"@id": "https://leaf-writer.leaf-vre.org",
-			"@type": "as:Application",
-			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.3.0"
-		},
-		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133401059#Selector",
-			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[2]/div[2]/note[2]"
+			"rdf:value": "TEI/text/body/div[2]/div[2]/ab[2]/note"
 		}
 	},
 	"oa:hasBody": {
@@ -961,10 +802,10 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133421093",
+	"id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133753273",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-11-22T18:34:21.093Z",
-	"dcterms:modified": "2022-11-22T18:34:24.662Z",
+	"dcterms:created": "2022-11-22T18:37:53.273Z",
+	"dcterms:modified": "2022-11-22T18:37:55.044Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -974,7 +815,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133421093#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133753273#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml",
@@ -988,9 +829,9 @@
 			"schema:softwareVersion": "2.3.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133421093#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133753273#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[2]/div[2]/ab[2]/note"
+			"rdf:value": "TEI/text/body/div[2]/div[2]/ab[2]/note[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -1039,10 +880,10 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133429158",
+	"id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133759823",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-11-22T18:34:29.158Z",
-	"dcterms:modified": "2022-11-22T18:34:30.527Z",
+	"dcterms:created": "2022-11-22T18:37:59.823Z",
+	"dcterms:modified": "2022-11-22T18:38:01.506Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -1052,7 +893,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133429158#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133759823#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml",
@@ -1066,15 +907,93 @@
 			"schema:softwareVersion": "2.3.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133429158#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133759823#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[2]/div[2]/note[3]"
+			"rdf:value": "TEI/text/body/div[2]/div[2]/ab[3]/note"
 		}
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:Note",
 		"dc:format": "text/plain",
 		"rdf:value": "The shreves of london to Receyve the\n\t\t\t\t\t\tquene at her graces first Entre in to Middlesex/"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "2.3.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133804506",
+	"type": "oa:Annotation",
+	"dcterms:created": "2022-11-22T18:38:04.506Z",
+	"dcterms:modified": "2022-11-22T18:38:04.506Z",
+	"dcterms:creator": {
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Diane Jakacki"
+	},
+	"oa:motivatedBy": "oa:describing",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133804506#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "2.3.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133804506#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[2]/div[2]/ab[3]/note[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:Note",
+		"dc:format": "text/plain",
+		"rdf:value": "Intratur"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -1403,9 +1322,9 @@
 					<div><head resp="rlo">f 87v (<date when="1558-11-15">15 November</date>)</head>
 					<pb type="folio" n="87v"/>
 					<gap reason="omitted"/>
-					<note place="margin_left" type="marginal">Greves holyngbrydge &amp;
-						williamson</note>
-					<ab>Item yt was orderyd vpon the informacion and requeste of master Chamberleyn
+					
+					<ab><note place="margin_left" type="marginal">Greves holyngbrydge &amp;
+						williamson</note> Item yt was orderyd vpon the informacion and requeste of master Chamberleyn
 						that <persName cert="high" type="real">Iohn Greves</persName> and <persName>Iohn hollyngbrydge</persName> parishe clerkes &amp; also <persName>williamson</persName> late one of the waytes
 						of this Cytie shalbe warned to be here the nexte Courte daye/</ab>
 					<gap reason="omitted"/></div>
@@ -1414,15 +1333,15 @@
 					<head type="rlo">ff 90v-1 (<date when="1558-11-19">19 November</date>)</head>
 					<pb type="folio" n="90v"/>
 					<gap reason="omitted"/>
-					<note place="margin_left" type="marginal">Comen consilium</note>
-					<ab>Item yt was agreid that there shalbe a Comen counseyll here holden vpon
+					
+					<ab><note place="margin_left" type="marginal">Comen consilium</note> Item yt was agreid that there shalbe a Comen counseyll here holden vpon
 							<date when-iso="1588-11-21"><date when="1558-11-21">Mondaye nexte</date>
 							comyng</date> at ix of the clock for the grauntyng of ij xv<hi rend="superscript">nes</hi> for the present that is to be geven to the
 						quenes maiestie by the Cytie att the tyme of her coronacion &amp; for <note place="margin_left" type="marginal">ij xv<hi rend="superscript">nes</hi></note>the provysion of wood &amp; other necessaries for the
 						cominaltye of the seid Cytie/</ab>
-					<note place="margin_left" type="marginal">parishe Clerkes &amp;
-						Mynstrelles</note>
-					<ab>Item the wardeyns bothe of the parishe clerkes &amp; also of the mynstrelles
+					
+					<ab><note place="margin_left" type="marginal">parishe Clerkes &amp;
+						Mynstrelles</note> Item the wardeyns bothe of the parishe clerkes &amp; also of the mynstrelles
 						of this Cytie were here presentlye charged to call seuerallye their hole
 						ffelowships togither &amp; to put theym selfes with all convenyent Spede in
 						good &amp; perfytt redynes to do the beste &amp; moste comm<del>en</del>lye
@@ -1431,10 +1350,10 @@
 						Courte to appoynt their stondynges &amp; places &amp; to take order with
 						theym for their decent behauour in the doinge of their seid servyce &amp; to
 						geve theym notyce of the tyme therof/</ab>
-					<note place="margin_left" type="marginal">The shreves of london to Receyve the
+					
+					<ab><note place="margin_left" type="marginal">The shreves of london to Receyve the
 						quene at her graces first Entre in to Middlesex/</note>
-					<note place="margin_right" type="marginal"><handShift/>Intratur<handShift/></note>
-					<ab>Item ys was agreid that bothe Master Shreves of this Cytie shall Receyve the
+					<note place="margin_right" type="marginal"><handShift/>Intratur<handShift/></note> Item ys was agreid that bothe Master Shreves of this Cytie shall Receyve the
 						quenes Maiestie att the vtter parte of the Shere of Middlesex wherof they be
 						also Shreves at the tyme of her highnes entree into the same <pb type="folio" n="91"/> Shere in their Cotes of velvett with their Chaynes
 						of gold aboute their neckes and whyte Roddes in their handes whiche roddes
@@ -1451,11 +1370,11 @@
 					<head type="rlo">ff 97-8 (<date when="1558-12-07">7 December</date>)</head>
 					<pb type="folio" n="97"/>
 					<gap reason="omitted"/>
-					<note place="margin_right" type="marginal">Recognicio</note>
-					<ab>Item willelmus Aston haberdasher recognovit se debere Iohanni Sturgeon
+					
+					<ab><note place="margin_right" type="marginal">Recognicio</note> Item willelmus Aston haberdasher recognovit se debere Iohanni Sturgeon
 						Camerario xl li. bone &amp;c. soluit &amp;c.</ab>
-					<note place="margin_right" type="marginal">Aston</note>
-					<ab>The Condicion &amp;c. that if the saide Recognitour at any tyme hereafter do
+					
+					<ab><note place="margin_right" type="marginal">Aston</note> The Condicion &amp;c. that if the saide Recognitour at any tyme hereafter do
 						not permyt or suffer any manner of enterlude or stage play to be made or
 						played within his mansyon howse yarde garden or other place or places that
 						he nowe keapethe and hathe or that he hereafter shall holde occupy or keape
@@ -1463,9 +1382,9 @@
 						by the Lorde Mayour of the sayde Cyty for the tyme beynge So to do that then
 						&amp;c.</ab>
 					<gap reason="omitted"/>
-					<note place="margin_right" type="marginal">Comyners apoyntyd to devyse
-						pageauntes against the quenes maiestes Coronacion /</note>
-					<ab>Item this day the worshipfull Comyners herevnder namyd were nomynatyd
+					
+					<ab><note place="margin_right" type="marginal">Comyners apoyntyd to devyse
+						pageauntes against the quenes maiestes Coronacion /</note> Item this day the worshipfull Comyners herevnder namyd were nomynatyd
 						appoyntyd &amp; chardgid by the hole Courte to take the chardge Travell
 						&amp; paynes to cause at the Cytyes costes and chardges all the places
 						hereafter mencionyd to be very well and semely trymmyd &amp; deckyd <pb type="folio" n="97v"/> for the honour of the Cyty agaynste the commynge
@@ -1731,8 +1650,8 @@
 					<head resp="rlo">f 99</head>
 					<pb type="folio" n="99"/>
 					<gap reason="omitted"/>
-					<note place="margin_right" type="marginal">pageauntes</note>
-					<ab>Item <date when-iso="1588-12-13">this day</date> Richarde Grafton <note type="foot">printer and historian</note> and ffraunces Robynson grocers
+					
+					<ab><note place="margin_right" type="marginal">pageauntes</note>Item <date when-iso="1588-12-13">this day</date> Richarde Grafton <note type="foot">printer and historian</note> and ffraunces Robynson grocers
 						Richard Hilles merchaunttayllour and Lyonell ducket mercer were assignyd and
 						apoyntyd by the Courte here to survey the doynges and devyses of all the
 						other Comyners of this Cyty which are already apoyntyd to make and devyse
@@ -1749,8 +1668,8 @@
 					<head resp="rlo">&amp;gt;ff 103v-4</head>
 					<pb type="folio" n="103v"/>
 					<gap reason="omitted"/>
-					<note place="margin_left" type="marginal">pageauntes &amp; playne</note>
-					<ab>Item forasmoche as the paynters of this Cyty dyd vtterly refuse to newe
+					
+					<ab><note place="margin_left" type="marginal">pageauntes &amp; playne</note> Item forasmoche as the paynters of this Cyty dyd vtterly refuse to newe
 						paynte and trym <placeName ref="https://commons.cwrc.ca//reed:519965b1-b715-4bff-a439-abed27f5e7d0" key="Great Conduit Cheapside" cert="high">the greate Condyt in
 							Cheape</placeName> agaynste the Quenes Maiestes comynge to her
 						Coronacion for the Some of xx<hi rend="superscript">ty</hi> markes yt was
@@ -1769,9 +1688,9 @@
 						of the howse of the pore by the day &amp; not be greate and that he se that
 						he and his men do labour honestly and that he kepe well the Reconynge of
 						theire chardges </ab>
-					<note place="margin_left" type="marginal">Bachilers of the mercers
-						Company</note>
-					<ab>Item yt was agryed that the bachelers of the mercers Company shalbe
+					
+					<ab><note place="margin_left" type="marginal">Bachilers of the mercers
+						Company</note> Item yt was agryed that the bachelers of the mercers Company shalbe
 						permyttyd to stande Togither in <placeName ref="https://commons.cwrc.ca//reed:8d85f5e6-565f-4b2b-8c07-584eff831a75" key="Cheapside" cert="high">Chepe syde</placeName> dyrectely ouer
 						agaynste the Masters of the same Company on the further syde of the Strete
 						there at the Quenes commynge to her Coronacion</ab>
