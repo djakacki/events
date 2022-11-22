@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="https://cwrc.ca/islandora/object/cwrc%3A5d5159ce-8710-4717-b977-cc528dedc25e/datastream/CSS/view" type="text/css"?>
+<?xml-stylesheet href="https://raw.githubusercontent.com/LEAF-VRE/schemas/main/reed/reed_london.css" type="text/css"?>
 <?xml-model href="https://raw.githubusercontent.com/LEAF-VRE/schemas/main/reed/out/reed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 
