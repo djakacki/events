@@ -802,10 +802,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133753273",
+	"id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133755044",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-11-22T18:37:53.273Z",
-	"dcterms:modified": "2022-11-22T18:37:55.044Z",
+	"dcterms:created": "2022-11-22T18:37:55.044Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -815,7 +814,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133753273#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133755044#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml",
@@ -829,7 +828,7 @@
 			"schema:softwareVersion": "2.3.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133753273#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133755044#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[2]/div[2]/ab[2]/note[2]"
 		}
@@ -880,10 +879,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133759823",
+	"id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133801506",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-11-22T18:37:59.823Z",
-	"dcterms:modified": "2022-11-22T18:38:01.506Z",
+	"dcterms:created": "2022-11-22T18:38:01.506Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -893,7 +891,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133759823#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133801506#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml",
@@ -907,7 +905,7 @@
 			"schema:softwareVersion": "2.3.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133759823#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133801506#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[2]/div[2]/ab[3]/note"
 		}
@@ -958,10 +956,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133804506",
+	"id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133807896",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-11-22T18:38:04.506Z",
-	"dcterms:modified": "2022-11-22T18:38:07.896Z",
+	"dcterms:created": "2022-11-22T18:38:07.896Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -971,7 +968,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133804506#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133807896#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml",
@@ -985,7 +982,7 @@
 			"schema:softwareVersion": "2.3.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133804506#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133807896#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[2]/div[2]/ab[3]/note[2]"
 		}
@@ -1036,10 +1033,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133814221",
+	"id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133815678",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-11-22T18:38:14.221Z",
-	"dcterms:modified": "2022-11-22T18:38:15.678Z",
+	"dcterms:created": "2022-11-22T18:38:15.678Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -1049,7 +1045,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133814221#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133815678#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml",
@@ -1063,7 +1059,7 @@
 			"schema:softwareVersion": "2.3.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133814221#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133815678#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[2]/div[3]/ab/note"
 		}
@@ -1114,10 +1110,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133820490",
+	"id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133821844",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-11-22T18:38:20.490Z",
-	"dcterms:modified": "2022-11-22T18:38:21.844Z",
+	"dcterms:created": "2022-11-22T18:38:21.844Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -1127,7 +1122,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133820490#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133821844#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml",
@@ -1141,7 +1136,7 @@
 			"schema:softwareVersion": "2.3.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133820490#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133821844#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[2]/div/ab/note"
 		}
@@ -1192,10 +1187,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133903963",
+	"id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133905516",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-11-22T18:39:03.963Z",
-	"dcterms:modified": "2022-11-22T18:39:05.516Z",
+	"dcterms:created": "2022-11-22T18:39:05.516Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -1205,7 +1199,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133903963#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133905516#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml",
@@ -1219,7 +1213,7 @@
 			"schema:softwareVersion": "2.3.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133903963#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133905516#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[2]/div[3]/ab[2]/note"
 		}
@@ -1270,10 +1264,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133927404",
+	"id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133928759",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-11-22T18:39:27.404Z",
-	"dcterms:modified": "2022-11-22T18:39:28.759Z",
+	"dcterms:created": "2022-11-22T18:39:28.759Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -1283,7 +1276,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133927404#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133928759#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml",
@@ -1297,7 +1290,7 @@
 			"schema:softwareVersion": "2.3.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133927404#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133928759#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[2]/div[3]/ab[3]/note"
 		}
@@ -1348,10 +1341,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133940603",
+	"id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133942074",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-11-22T18:39:40.603Z",
-	"dcterms:modified": "2022-11-22T18:39:42.074Z",
+	"dcterms:created": "2022-11-22T18:39:42.074Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -1361,7 +1353,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133940603#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133942074#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml",
@@ -1375,7 +1367,7 @@
 			"schema:softwareVersion": "2.3.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133940603#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133942074#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[2]/div[4]/ab/note"
 		}
@@ -1426,10 +1418,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133945718",
+	"id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133947189",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-11-22T18:39:45.718Z",
-	"dcterms:modified": "2022-11-22T18:39:47.189Z",
+	"dcterms:created": "2022-11-22T18:39:47.189Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -1439,7 +1430,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133945718#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133947189#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml",
@@ -1453,7 +1444,7 @@
 			"schema:softwareVersion": "2.3.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133945718#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133947189#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[2]/div[4]/ab/note[2]"
 		}
@@ -1504,10 +1495,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133952736",
+	"id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133954139",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-11-22T18:39:52.736Z",
-	"dcterms:modified": "2022-11-22T18:39:54.139Z",
+	"dcterms:created": "2022-11-22T18:39:54.139Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -1517,7 +1507,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133952736#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133954139#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml",
@@ -1531,7 +1521,7 @@
 			"schema:softwareVersion": "2.3.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133952736#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122133954139#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[2]/div[5]/ab/note"
 		}
@@ -1582,10 +1572,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122134000336",
+	"id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122134001774",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-11-22T18:40:00.336Z",
-	"dcterms:modified": "2022-11-22T18:40:01.774Z",
+	"dcterms:created": "2022-11-22T18:40:01.774Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -1595,7 +1584,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122134000336#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122134001774#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml",
@@ -1609,7 +1598,7 @@
 			"schema:softwareVersion": "2.3.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122134000336#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122134001774#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[2]/div[5]/ab/note[2]"
 		}
@@ -1660,10 +1649,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122134005618",
+	"id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122134006855",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-11-22T18:40:05.618Z",
-	"dcterms:modified": "2022-11-22T18:40:06.855Z",
+	"dcterms:created": "2022-11-22T18:40:06.855Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -1673,7 +1661,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122134005618#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122134006855#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml",
@@ -1687,7 +1675,7 @@
 			"schema:softwareVersion": "2.3.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122134005618#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122134006855#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[2]/div[5]/ab[2]/note"
 		}
@@ -1738,10 +1726,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122134629110",
+	"id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122134631354",
 	"type": "oa:Annotation",
-	"dcterms:created": "2022-11-22T18:46:29.110Z",
-	"dcterms:modified": "2022-11-22T18:46:31.354Z",
+	"dcterms:created": "2022-11-22T18:46:31.354Z",
 	"dcterms:creator": {
 		"@type": [
 			"cwrc:NaturalPerson",
@@ -1751,7 +1738,7 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122134629110#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122134631354#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml",
@@ -1765,7 +1752,7 @@
 			"schema:softwareVersion": "2.3.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122134629110#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?note_annotation_20221122134631354#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[2]/div[2]/ab/note[2]"
 		}
@@ -2110,7 +2097,7 @@
 					<gap reason="omitted"/></div>
 				
 				<div>
-					<head type="rlo">ff 90v-1 (<date when="1558-11-19">19 November</date>)</head>
+					<head type="rlo">ff 90v-1 (<date when="1558-11-19">19 November</date>) </head>
 					<pb type="folio" n="90v"/>
 					<gap reason="omitted"/>
 					
