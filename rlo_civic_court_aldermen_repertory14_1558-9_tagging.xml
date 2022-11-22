@@ -1744,7 +1744,7 @@
 		"oa:hasSelector": {
 			"@id": "https://github.com/placeholder/blob/master/placeholder.xml?date_annotation_20210529173400334#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[2]/div/head/supplied/date"
+			"rdf:value": "TEI/text/body/div[2]/div/head/label/date"
 		}
 	},
 	"oa:hasBody": {
@@ -1818,7 +1818,7 @@
 		"oa:hasSelector": {
 			"@id": "https://github.com/placeholder/blob/master/placeholder.xml?date_annotation_20210529173400335#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[2]/div[2]/head/supplied/date"
+			"rdf:value": "TEI/text/body/div[2]/div[2]/head/label/date"
 		}
 	},
 	"oa:hasBody": {
@@ -2114,7 +2114,7 @@
 		"oa:hasSelector": {
 			"@id": "https://github.com/placeholder/blob/master/placeholder.xml?date_annotation_20210529173400336#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[2]/div[3]/head/supplied/date"
+			"rdf:value": "TEI/text/body/div[2]/div[3]/head/label/date"
 		}
 	},
 	"oa:hasBody": {
@@ -4016,7 +4016,7 @@
 			<div type="transcription">
 				<div>
 					<head>
-						<supplied>f 87v (<date when="1558-11-15">15 November</date>)</supplied>
+						<label>f 87v (<date when="1558-11-15">15 November</date>)</label>
 					</head>
 					<pb type="folio" n="87v"/>
 					<gap reason="omitted"/>
@@ -4031,7 +4031,7 @@
 
 				<div>
 					<head>
-						<supplied>ff 90v-1 (<date when="1558-11-19">19 November</date>)</supplied>
+						<label>ff 90v-1 (<date when="1558-11-19">19 November</date>)</label>
 					</head>
 					<pb type="folio" n="90v"/>
 					<gap reason="omitted"/>
@@ -4079,7 +4079,7 @@
 
 				<div>
 					<head>
-						<supplied>ff 97-8 (<date when="1558-12-07">7 December</date>)</supplied>
+						<label>ff 97-8 (<date when="1558-12-07">7 December</date>)</label>
 					</head>
 					<pb type="folio" n="97"/>
 					<gap reason="omitted"/>
@@ -4385,7 +4385,7 @@
 
 				<div>
 					<head>
-						<supplied>f 99</supplied>
+						<label>f 99</label>
 					</head>
 					<pb type="folio" n="99"/>
 					<gap reason="omitted"/>
@@ -4406,7 +4406,7 @@
 
 				<div>
 					<head>
-						<supplied>ff 103v-4</supplied>
+						<label>ff 103v-4</label>
 					</head>
 					<pb type="folio" n="103v"/>
 					<gap reason="omitted"/>
@@ -4454,7 +4454,7 @@
 
 			<div type="endnote">
 				<div>
-					<head><supplied>Endnotes</supplied></head>
+					<head><label>Endnotes</label></head>
 					<p>For Williamson (f 87v), see also <ref
 							target="https://cwrc.ca/islandora/object/reed%3A78d19320-05a7-4f26-808e-81db9332b479"
 							>Repertory 14, ff 61v and 63v</ref> (under 1557–8). This record may be
