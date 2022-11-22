@@ -4009,13 +4009,13 @@
 	</teiHeader>
 	<text>
 		<body>
-			<div>
+
 				<head resp="rlo"><title>Court of Aldermen, Repertory 14, <date from="1558" to="1559"
 							>1558–9</date></title></head>
-			</div>
+
 			<div type="transcription">
-				<div>
-					<head resp="rlo">f 87v (<date when="1558-11-15">15 November</date>)</head>
+
+					<div><head resp="rlo">f 87v (<date when="1558-11-15">15 November</date>)</head>
 					<pb type="folio" n="87v"/>
 					<gap reason="omitted"/>
 					<note place="margin_left" type="marginal">Greves holyngbrydge &amp;
@@ -4024,9 +4024,8 @@
 						that <persName cert="high" type="real">Iohn Greves</persName> and Iohn
 						hollyngbrydge parishe clerkes &amp; also williamson late one of the waytes
 						of this Cytie shalbe warned to be here the nexte Courte daye/</ab>
-					<gap reason="omitted"/>
-				</div>
-
+					<gap reason="omitted"/></div>
+				
 				<div>
 					<head type="rlo">ff 90v-1 (<date when="1558-11-19">19 November</date>)</head>
 					<pb type="folio" n="90v"/>
@@ -4443,7 +4442,6 @@
 
 
 			<div type="endnote">
-				<div>
 					<head resp="elo">Endnotes</head>
 					<p>For Williamson (f 87v), see also <ref
 							target="https://cwrc.ca/islandora/object/reed%3A78d19320-05a7-4f26-808e-81db9332b479"
@@ -4470,7 +4468,7 @@
 						Mercers’ Company. The children of the house of the poor (f 104) were either
 						from St Bartholomew’s Hospital or from Christ’s Hospital.</p>
 				</div>
-			</div>
+			
 
 		</body>
 	</text>
