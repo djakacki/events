@@ -1806,7 +1806,7 @@
 	"id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?person_annotation_20221215105212647",
 	"type": "oa:Annotation",
 	"dcterms:created": "2022-12-15T15:52:12.647Z",
-	"dcterms:modified": "2022-12-15T15:52:12.647Z",
+	"dcterms:modified": "2022-12-15T15:53:08.028Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
