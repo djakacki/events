@@ -1771,6 +1771,85 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?person_annotation_20221215105212647",
+	"type": "oa:Annotation",
+	"dcterms:created": "2022-12-15T15:52:12.647Z",
+	"dcterms:modified": "2022-12-15T15:52:12.647Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/djakacki",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Diane Jakacki"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?person_annotation_20221215105212647#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "2.3.1"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/djakacki/events/main/rlo_civic_court_aldermen_repertory14_1558-9_tagging.xml?person_annotation_20221215105212647#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[2]/div[2]/ab[2]/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://viaf.org/viaf/290409630/",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "2.3.1"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData><encodingDesc>
 			<projectDesc>
 				<p>Records of Early English Drama (REED) is an international scholarly project that
@@ -2110,7 +2189,7 @@
 					<ab><note place="margin_left" type="marginal">parishe Clerkes &amp;
 						Mynstrelles</note> Item the wardeyns bothe of the parishe clerkes &amp; also of the mynstrelles
 						of this Cytie were here presentlye charged to call seuerallye their hole
-						ffelowships togither &amp; to put theym selfes with all convenyent Spede in
+						ffelowships togither &amp; to put theym selfes with all convenyent <persName key="Spède, Raphaël" ref="http://viaf.org/viaf/290409630/">Spede</persName> in
 						good &amp; perfytt redynes to do the beste &amp; moste comm<del>en</del>lye
 						servyce that they can for the honour of the seid Cytie/ att <date when="1558-11-28">the quenes maiesties fyrste comynge</date><note type="foot">accession entry of Elizaabeth I</note> vnto the same/ And mr
 						Altham mr Malorye mr Marten &amp; mr Rowe Aldremen were assigned by the
