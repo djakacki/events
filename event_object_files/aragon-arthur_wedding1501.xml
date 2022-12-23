@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="https://raw.githubusercontent.com/LEAF-VRE/schemas/main/reed/reed_london.css" type="text/css"?>
+<?xml-model href="https://raw.githubusercontent.com/LEAF-VRE/schemas/main/reed/out/reed.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">REED London Online</title>
+				<funder>
+					<orgName>Andrew W. Mellon Foundation<address>
+							<addrLine>140 E. 62nd Street</addrLine>
+							<addrLine>New York, NY 1006</addrLine>
+							<addrLine>United States of America</addrLine>
+						</address>
+					</orgName>
+					<date from-iso="2018-01-01" to-iso="2018-12-31">NHPRC-Mellon Planning
+						Grant</date>
+					<date from-iso="2020-01-01" to-iso="2022-12-31">NHPRC-Mellon Implementation
+						Grant</date>
+				</funder>
+
+				<!-- The following persons participated in the second phase of REED London Online, funded by an NHPRC-Andrew W. Mellon Digital Edition Publishing Cooperatives Implementation Grant, 2020-22  -->
+
+				<respStmt>
+					<persName xml:id="JAKA1">Diane K. Jakacki</persName>
+					<orgName>Bucknell University</orgName>
+					<resp>Principal Investigator, REED London Online</resp>
+					<resp>Records of Early English Drama (REED) Executive Board</resp>
+				</respStmt>
+				<respStmt>
+					<persName xml:id="CB">Carolyn Black</persName>
+					<orgName>Records of Early English Drama (REED)</orgName>
+					<resp>Project Manager, REED</resp>
+					<resp>NHPRC-Mellon Project Team Member, 2018-Present</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Susan Brown</persName>
+					<orgName>University of Guelph</orgName>
+					<resp>Lead Investigator, Canadian Writing Research Collaboratory (CWRC)</resp>
+					<resp>NHPRC-Mellon Project Team Member, 2018-Present</resp>
+				</respStmt>
+				<respStmt>
+					<persName xml:id="JC">James Cummings</persName>
+					<orgName>Newcastle University</orgName>
+					<resp>NHPRC-Mellon Project Team Member, 2018-Present</resp>
+					<resp>Records of Early English Drama (REED) Executive Board</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Mihaela Ilovan</persName>
+					<orgName>CWRC</orgName>
+					<resp>Project Manager, CWRC</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Sally-Beth MacLean</persName>
+					<orgName>Records of Early English Drama (REED)</orgName>
+					<resp>Director of Research and General Editor</resp>
+					<resp>NHPRC-Mellon Project Team Member, 2018-Present</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Kim Martin</persName>
+					<orgName>University of Guelph</orgName>
+					<resp>NHPRC-Mellon Project Team Member, 2018-Present</resp>
+					<resp>Linked Data Consultant</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Rachel Millio</persName>
+					<orgName>Bucknell University</orgName>
+					<resp>Research Assistant, 2018-Present</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Charlotte Simon</persName>
+					<orgName>Bucknell University</orgName>
+					<resp>Research Assistant, 2018-Present</resp>
+				</respStmt>
+
+				<!-- The following additional persons participated in the first phase of REED London, funded by an NHPRC-Andrew W. Mellon Digital Edition Publishing Cooperatives Planning Grant, 2018 -->
+
+				<respStmt>
+					<persName>John Bradley</persName>
+					<resp>NHPRC-Mellon Project Team Member, 2018</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Kathy Chung</persName>
+					<orgName>Records of Early English Drama (REED)</orgName>
+					<resp>REED Research Associate, NHPRC-Mellon Project Consultant, 2018</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Matthew Davies</persName>
+					<orgName>University of London, Birkbeck College</orgName>
+					<resp>Records of Early English Drama (REED) Executive Board</resp>
+					<resp>NHPRC-Mellon Project Team Member, 2018</resp>
+				</respStmt>
+				<respStmt>
+					<persName>David Kathman</persName>
+					<resp>NHPRC-Mellon Project Team Member, 2018</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Maureen Maclean</persName>
+					<orgName>Bucknell University</orgName>
+					<resp>REED London Research Assistant, 2018-2020</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Christopher Matusiak</persName>
+					<orgName>Ithaca College</orgName>
+					<resp>NHPRC-Mellon Project Team Member, 2018</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Dorothy Porter</persName>
+					<orgName>University of Pennsylvania</orgName>
+					<resp>NHPRC-Mellon Project Team Member, 2018</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Suzanne Westfall</persName>
+					<orgName>Lafayette College</orgName>
+					<resp>Records of Early English Drama (REED) Executive Board Member</resp>
+					<resp>NHPRC-Mellon Project Team Member, 2018</resp>
+				</respStmt>
+
+				<!-- The following persons are editors of REED print collections considered in REED London Online -->
+
+				<respStmt>
+					<persName>John R. Elliott Jr.</persName>
+					<resp>Editor, Inns of Court</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Mary C. Erler</persName>
+					<resp>Editor, Ecclesiastical London</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Anne Lancashire</persName>
+					<resp>Editor, Civic London to 1558</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Alan H. Nelson</persName>
+					<resp>Editor, Inns of Court</resp>
+				</respStmt>
+
+				<!-- The following persons are members of the REED Executive Board (2020-2021) -->
+				<respStmt>
+					<persName>Carolyn Black</persName>
+					<orgName>University of Toronto</orgName>
+					<resp>Project Manager</resp>
+				</respStmt>
+				<respStmt>
+					<persName>John Craig</persName>
+					<orgName>Simon Fraser University</orgName>
+					<resp>Chair</resp>
+				</respStmt>
+				<respStmt>
+					<persName>James Cummings</persName>
+					<orgName>Newcastle University</orgName>
+					<resp>Board Member</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Matthew Davies</persName>
+					<orgName>University of London</orgName>
+					<resp>Board Member</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Alexandra Gillespie</persName>
+					<orgName>University of Toronto</orgName>
+					<resp>Board Member</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Peter Greenfield</persName>
+					<orgName>University of Puget Sound</orgName>
+					<resp>Secretary</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Diane Jakacki</persName>
+					<orgName>Bucknell University</orgName>
+					<resp>Board Member</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Alexandra F. Johnston</persName>
+					<orgName>University of Toronto</orgName>
+					<resp>Founder and Senior Consultant</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Sally-Beth MacLean</persName>
+					<orgName>University of Toronto</orgName>
+					<resp>Director of Research and General Editor</resp>
+				</respStmt>
+				<respStmt>
+					<persName>C.E. McGee</persName>
+					<orgName>St Jerome’s University</orgName>
+					<resp>Board Member</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Alan H. Nelson</persName>
+					<orgName>University of California, Berkeley</orgName>
+					<resp>Board Member</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Paul Stevens</persName>
+					<orgName>University of Toronto </orgName>
+					<resp>Chair of English, ex officio</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Suzanne Westfall</persName>
+					<orgName>Lafayette College</orgName>
+					<resp>Board Member</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Matthew Woodcock</persName>
+					<orgName>University of East Anglia</orgName>
+					<resp>Board Member</resp>
+				</respStmt>
+				<respStmt>
+					<persName>John Bradley</persName>
+					<orgName>King’s College London</orgName>
+					<resp>Senior Digital Advisor</resp>
+				</respStmt>
+				<respStmt>
+					<persName>J.J. McGavin</persName>
+					<orgName>University of Southampton</orgName>
+					<resp>Corresponding Advisor</resp>
+				</respStmt>
+
+				<!-- The following persons were REED directors and editorial staff involved in the print publication of Civic London to 1558, Ecclesiastical London, and Inns of Court -->
+
+				<respStmt>
+					<persName>Carolyn Black</persName>
+					<orgName>Records of Early English Drama (REED)</orgName>
+					<resp>Associate Editor</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Jason Boyd</persName>
+					<orgName>Records of Early English Drama (REED)</orgName>
+					<resp>Patrons Researcher, Inns of Court</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Patrick Gregory</persName>
+					<orgName>Records of Early English Drama (REED)</orgName>
+					<resp>Associate Editor, Civic London to 1558 and Inns of Court</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Tanya Hagen</persName>
+					<orgName>Records of Early English Drama (REED)</orgName>
+					<resp>Bibliographer</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Alexandra F. Johnston</persName>
+					<orgName>Records of Early English Drama (REED)</orgName>
+					<resp>Director</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Milton Kooistra</persName>
+					<orgName>Records of Early English Drama (REED)</orgName>
+					<resp>Associate Bibliographer, Inns of Court</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Maria Lau</persName>
+					<orgName>Records of Early English Drama (REED)</orgName>
+					<resp>Typesetter, Civic London to 1558 and Inns of Court</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Sally-Beth MacLean</persName>
+					<orgName>Records of Early English Drama (REED)</orgName>
+					<resp>Associate Director/Executive Editor</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Gord Oxley</persName>
+					<orgName>Records of Early English Drama (REED)</orgName>
+					<resp>Typesetter, Civic London to 1558 and Ecclesiastical London</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Arleane Ralph</persName>
+					<orgName>Records of Early English Drama (REED)</orgName>
+					<resp>Associate Editor, Ecclesiastical London</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Abigail Ann Young</persName>
+					<orgName>Records of Early English Drama (REED)</orgName>
+					<resp>Associate Editor</resp>
+				</respStmt>
+
+			</titleStmt>
+			<editionStmt>
+				<edition>version 2, released <date when-iso="2020-01-01">1 January
+					2020</date></edition>
+			</editionStmt>
+			<publicationStmt>
+				<authority>
+					<orgName>Records of Early English Drama (REED)</orgName>
+					<address>
+						<addrLine>University of Toronto</addrLine>
+						<addrLine>170 St George Street, Suite 810</addrLine>
+						<addrLine>Toronto, Ontario, Canada</addrLine>
+						<addrLine>M5R 2M8</addrLine>
+					</address>
+				</authority>
+				<availability>
+					<p>Copyright <orgName>Records of Early English Drama (REED)</orgName>,
+							<date>2020</date></p>
+					<licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed
+						under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+						International (CC BY-NC-SA 4.0) licence.</licence>
+				</availability>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Records of Early English Drama</title>
+			</seriesStmt>
+			<sourceDesc>
+				<p>This publication constitutes a remediation of the printed REED collections - Inns
+					of Court, Ecclesiastical London, and Civic London to 1558. Information on
+					original sources for transcriptions can be accessed via the Document
+					Descriptions. <listBibl>
+						<biblStruct>
+							<monogr>
+								<title>Ecclesiastical London</title>
+								<editor>
+									<persName>
+										<forename>Mary</forename>
+										<addName>C.</addName>
+										<surname>Erler</surname>
+									</persName>
+								</editor>
+								<imprint>
+									<publisher>University of Toronto Press and The British
+										Library.</publisher>
+									<date>2008</date>
+								</imprint>
+								<biblScope unit="page">504</biblScope>
+								<extent>
+									<idno type="ISBN">978-0-8020-9858-0</idno>
+									<idno type="ISBN">978-0-7123-5024-2</idno>
+								</extent>
+							</monogr>
+						</biblStruct>
+						<biblStruct>
+							<monogr>
+								<title>Inns of Court</title>
+								<editor>
+									<persName>
+										<forename>Alan</forename>
+										<addName>H.</addName>
+										<surname>Nelson</surname>
+									</persName>
+								</editor>
+								<editor>
+									<persName>
+										<forename>John</forename>
+										<addName>R.</addName>
+										<surname>Elliott, Jr</surname>
+									</persName>
+								</editor>
+								<imprint>
+									<publisher>Boydell &amp; Brewer</publisher>
+									<date>2010</date>
+								</imprint>
+								<biblScope unit="page" n="1174">1174</biblScope>
+								<biblScope unit="volume">3</biblScope>
+								<biblScope>
+									<idno type="ISBN">978-1-84384-259-0</idno>
+								</biblScope>
+							</monogr>
+						</biblStruct>
+						<biblStruct>
+							<monogr>
+								<title>Civic London to 1558</title>
+								<editor>
+									<persName>
+										<forename>Ann</forename>
+										<surname>Lancashire</surname>
+									</persName>
+								</editor>
+								<editor>
+									<persName>
+										<forename>David</forename>
+										<addName>J.</addName>
+										<surname>Parkinson</surname>
+									</persName>
+								</editor>
+								<imprint>
+									<publisher>Boydell &amp; Brewer</publisher>
+									<date>2015</date>
+								</imprint>
+								<biblScope unit="volume">3</biblScope>
+								<biblScope unit="page">1795</biblScope>
+								<biblScope>
+									<idno type="ISBN">978-1-84384-399-3</idno>
+								</biblScope>
+							</monogr>
+						</biblStruct>
+					</listBibl>
+				</p>
+			</sourceDesc>
+		</fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab></ab>
+      </body>
+   </text>
+</TEI>

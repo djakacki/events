@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <listEvent>
+            <event type="social">
+               <label>Marriage of Prince Arthur and Katherine of Aragon: London 1501</label>
+               <desc>The royal wedding ceremony between <persName
+                  ref="https://www.wikidata.org/wiki/Q711801">Arthur, <roleName>Prince of
+                     Wales</roleName></persName> and <persName
+                        ref="https://www.wikidata.org/wiki/Q162819">Katherine of Aragon</persName>. The
+                  wedding took place at <placeName ref="https://www.wikidata.org/wiki/Q2576524">St.
+                     Paul's Cathedral</placeName> on <date when-iso="1501-11-14">14 November
+                        1501</date>. Arthur and Katherine were already married by proxy (May 1499), so
+                  this event is in essence the certification of that proxy marriage. </desc>
+               <listBibl>
+                  <bibl>REED: Civic London to 1558 collection</bibl>
+               </listBibl>
+            </event>
+         </listEvent>        
+      </body>
+  </text>
+</TEI>
