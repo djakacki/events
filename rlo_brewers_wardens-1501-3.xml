@@ -700,60 +700,64 @@
   <text>
       <body>
          <div type="head">
-         	<head><title>Brewers' Wardens' Accounts, 1501-3</title></head>
+         	<head><title>Brewers' Wardens' Accounts, <date from-iso="1501" to-iso="1503">1501–3</date></title></head>
          <div type="record">
-         	<head>p [8] of 1501-2 account Rendered 21 February 1502/3)</head>
-         	<pb type="sheet" n="8"/>
-         	<ab>Mony Ress<ex>e</ex>₻<ex>ea</ex> ffor Stondynge in cornell xxjj ss. [vj
-         		d.]</ab>
-         	<ab>lt<ex>e</ex>m the Seid Accom<ex>m</ex>pta<ex>u</ex>nt<ex>es</ex> Chargeth
-         		them Selff w<ex>i</ex>t<ex>h</ex> certayn mony by 3 them Ressaued of
+         	<head>p [8] of 1501–2 account (Rendered 21 February 1502/3)</head>
+         	<pb type="page" n="[8]"/>
+         	<gap reason="omitted"/>
+         	<note type="marginal" place="margin_left">Mony Ress<ex>eved</ex> ffor Stondynge in cornell</note>
+         	<note type="marginal" place="margin_left">xxxjj ss. [vj
+         		d.]</note>
+         	<ab>It<ex>e</ex>m the Seid Accom<ex>m</ex>pta<ex>u</ex>nt<ex>es</ex> Chargeth
+         		them Selff w<ex>i</ex>t<ex>h</ex> certayn mony by them Ressaued of
          		dyu<ex>er</ex>s p<ex>er</ex>sonez beyng in the leu<ex>er</ex>ey of Blew
          		toward the cost<ex>es</ex> made And Raled in Cornell at com<ex>m</ex>yng In
          		of the lady princez kat<ex>er</ex>yn king<ex>es</ex> doughter of Spayn
-         		Maried to arthur p<ex>r</ex>ince of ynglon</ab>
-         	<gap/>
-         	<ab>S<ex>u</ex>m<ex>ma</ex> xxxij s.</ab>
+         		Maried to arthur p<ex>r</ex>ince of ynglond</ab>
+         	<gap reason="omitted"/>
+         	<ab>S<ex>u</ex>m<ex>m</ex>a xxxij s.</ab>
          </div>
       	<div type="record">
 
-      		<head>p [15] of 1501-2 account Customary expenses)</head>
-      		<pb type="page" n="15"/>
-      		<gap/>
+      		<head>p [15] of 1501–2 account (Customary expenses)</head>
+      		<pb type="page" n="[15]"/>
+      		<gap reason="omitted"/>
       		<table>
       			<row>
       				<cell>It<ex>e</ex>m Paid ffor Makyng of A Raile for the hole Company of
-      					o<ex>ur</ex> crafte made by lohn Clerk Carpent<ex>er</ex> In
+      					o<ex>ur</ex> crafte made by Iohn Clerk Carpent<ex>er</ex> In
       					cornell At Ressauyng of my lady princez kat<ex>er</ex>yn secund
-      					doughtan <note>doughtan: for doughter</note> vnto kyng of Cspayn
-      					Maried vnto Arthur P<ex>ri</ex>nce <note>P<ex>r</ex>rince: e
-      						corrected over another letter</note> of Inglond he first son of
-      					kyng h<ex>enr</ex>y vij<hi rend="superscript">th</hi>
-      					<note>vijth: v corrected over s or f</note></cell>
+      					doughtan <note>doughtan: <hi rend="italic">for</hi> doughter</note> vnto kyng of Cspayn
+      					Maried vnto Arthur P<ex>ri</ex>nce <note>P<ex>ri</ex>nce: e
+      						<hi rend="italic">corrected over another letter</hi></note> of Inglond the first son of
+      					kyng h<ex>enry</ex> vij<hi rend="superscript">th</hi>
+      					<note>vij<hi rend="superscript">th</hi>: v <hi rend="italic">corrected over</hi> s <hi rend="italic">or</hi> f</note></cell>
       				<cell>xliiij s. xj d.</cell>
       			</row>
       		</table>
+      		<gap reason="omitted"/>
       	</div>
       	<gap/>
       	<div type="record">
 
-      		<head>p [17] of 1501-2 account (Costs of various dinners)</head>
-      		<pb type="page" n="17"/>
+      		<head>p [17] of 1501–2 account (Costs of various dinners)</head>
+      		<pb type="page" n="[17]"/>
+      		<gap reason="omitted"/>
       		<table>
       			<row>
       				<cell>ffirst cost<ex>es</ex> made of A den<ex>er</ex> vnto the hole
-      					Company In th lyu<ex>er</ex>ey beyng p<ex>re</ex>sent with [the] Sir
-      					lohn Shaa knyght thei Maire In takyng his othe At
-      					westm<ex>inster</ex> the Barons of th kyng<ex>es</ex> escheker
+      					Company In the lyu<ex>er</ex>ey beyng p<ex>re</ex>sent with <del>the</del> Sir
+      					Iohn Shaa knyght then Maire In takyng his othe At
+      					westm<ex>inster</ex> the Barons of the kyng<ex>es</ex> escheker
       					then kepyng ther co<ex>ur</ex>t at that tym<ex>e</ex> In the
-      					syng<ex>es</ex> Stondyng then at that tym<ex>e</ex> ordendyned
-      					and mad for the lust<ex>es</ex> at the Mariage of p<ex>ri</ex>nce
-      					Arthur And Tat<ex>er</ex>y secund dought<ex>er</ex> of kyng of
+      					kyng<ex>es</ex> Stondyng then at that tym<ex>e</ex> ordendyned
+      					and made for the Iust<ex>es</ex> at the Mariage of p<ex>ri</ex>nce
+      					Arthur And Kat<ex>er</ex>y secund dought<ex>er</ex> of kyng of
       					Spayn</cell>
       				<cell>liiij s. vj d.</cell>
       			</row>
       		</table>
-      		<gap/>
+      		<gap reason="omitted"/>
       	</div>
          </div>
 
