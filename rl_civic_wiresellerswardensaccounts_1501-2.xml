@@ -501,14 +501,14 @@
 	                     </choice>
 	                  </catDesc>
 	               </category>
-	            	<category xml:id="CH">
-	            		<catDesc>
-	            			<choice>
-	            				<abbr>CH</abbr>
-	            				<expan>Clothworkers' Hall</expan>
-	            			</choice>
-	            		</catDesc>
-	            	</category>
+	               <category xml:id="CH">
+	                  <catDesc>
+	                     <choice>
+	                        <abbr>CH</abbr>
+	                        <expan>Clothworkers' Hall</expan>
+	                     </choice>
+	                  </catDesc>
+	               </category>
 	               <category xml:id="CUL">
 	                  <catDesc>
 	                     <choice>
@@ -525,21 +525,21 @@
 	               </category>
 	               <category xml:id="DH">
 	                  <catDesc>
-	                  	<choice>
-	                  		<abbr>DH</abbr>
-	                  		<expan>Drapers' Hall</expan>
-	                  	</choice>	                  	
-	                  	</catDesc>
+	                     <choice>
+	                        <abbr>DH</abbr>
+	                        <expan>Drapers' Hall</expan>
+	                     </choice>	                  	
+	                  </catDesc>
 	               </category>
 	               <category xml:id="folger-shakespeare-library">
 	                  <catDesc>Folger Shakespeare Library</catDesc>
 	               </category>
 	               <category xml:id="GH">
 	                  <catDesc>
-	                  	<choice>
-	                  		<abbr>GH</abbr>
-	                  		<expan>Goldsmiths' Hall</expan>
-	                  	</choice>
+	                     <choice>
+	                        <abbr>GH</abbr>
+	                        <expan>Goldsmiths' Hall</expan>
+	                     </choice>
 	                  </catDesc>
 	               </category>
 	               <category xml:id="gonville-caius-library">
@@ -697,41 +697,43 @@
 	      </langUsage>
 	   </profileDesc>
    </teiHeader>
-  <text source="#LMA">
-      <body>
-         <div type="head">
-         	<head><title>Bakers' Audit Book</title></head>
-         </div>
-         <div type="record">
-         	<head><supplied>f 32v <date from-iso="1499" to-iso="1501">(1499–1501)</date> (Payments)</supplied></head>
-         	<pb type="folio" n="32v"/>
-         	<gap reason="omitted"/>
-         	<table>
-         		<row>
-         			<cell>It<ex>e</ex>m for the takyng vp of the pament where yo<ex>ur</ex>
-         				standding was the tyme the princes came oute of spayne in to london.
-         				vj d. It<ex>e</ex>m p<ex>ai</ex>d to tho<ex>m</ex>as A wode
-         				Carpent<ex>er</ex>. for xv. yearrd of lengithe Closid be
-         				fo<ex>ur</ex> &amp; be hynd be Cavse of pres of the peopill
-         				.xij. s. S<ex>u</ex>mma</cell>
-         			<cell>xij. s. vj d.</cell>
-         		</row>
-         		<row>
-         			<cell>It<ex>e</ex>m for the pavyng &amp; dreshing of the same pament
-         				Ageynne</cell>
-         			<cell>iij. s. iiij d.</cell>
-         		</row>
-         	</table>         			
-         		<gap reason="omitted"/>
-         	</div>
+    <text type="record">
+        <body>
+            <div><head><title>Wiresellers' Wardens' Accounts, <date from-iso="1501" to-iso="1502">1501–2</date></title>
+            </head></div>
+            <div type="transcription">
+                <div xml:lang="en">
+                    <head><supplied>f 58v <date from-iso="1501" to-iso="1504">>(1501–4)</date>
+                    </supplied></head>
+                    <pb n="58v" type="folio"/>
+                    <gap reason="omitted"/>   
+            <table>
+                <row><cell>It<ex>em</ex> payd to thomas A wod Carpynter ffor makyng off owr skaffowlld A yen
+                    the prynces cam in v s. j d. and to the laboras ffor makyng off the hollys ffor
+                    the tymbyr and ffor the stopyng A yen ij s. ij d.</cell><cell/></row>
+                <row><cell>It<ex>em</ex> payd att ij tymes <del>fo</del> to the karter ffor bryngyng owr <del><damage><gap unit="chars" extent="1"/></damage>ey</del> stuff ffrom
+                    Ihon Allssopp one tyme iiij d. the second tyme iij d.</cell><cell/></row>
+                <row><cell>It<ex>em</ex> payd ffor the hangyng up of owr clothys And bestoyng
+                    off owr stuff</cell><cell>j d.</cell></row>
+            </table>
+            <gap reason="omitted"/>
+        </div>
+                <div xml:lang="en">
+                    <head><supplied>f 60
+                    </supplied></head>
+                    <pb n="60" type="folio"/>
+                	<ab rend="center">Receued off the brether to the makyng off the skaffolld in Cornell ayen the
+                		prynsses cam<note type="foot">Receued ... cam: <hi rend="italic">followed by a list of 8 contributions totalling 11s 4d</hi></note></ab>
+                    <gap reason="omitted"/>
+                </div>
+            </div>
+            <div type="event">
+                <head>Event note:</head>
+                <p>This record refers to the royal entry of Katherine of Aragon on 12 November 1501.</p>
+            </div>
+        
+</body>
+</text>    
 
-         <!-- include the following only if there is an endnote for the record -->
-         <div type="event">
-            <head>Event note:</head>
-            <p>This record refers to the royal entry of Katherine of Aragon on 12 November 1501</p>
-         </div>
-      	
-      	
-      </body>
-  </text>
 </TEI>
+
