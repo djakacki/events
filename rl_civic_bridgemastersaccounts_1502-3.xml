@@ -699,37 +699,38 @@
    </teiHeader>
     <text type="record">
         <body>
-            <div><head><title>Wiresellers' Wardens' Accounts, <date from-iso="1501" to-iso="1502">1501–2</date></title>
+        	<div><head><title>Bridgemasters’ Annual Accounts and Rentals, <date from-iso="1502" to-iso="1503">1502–3</date></title>
             </head></div>
             <div type="transcription">
                 <div xml:lang="en">
-                    <head><supplied>f 58v <date from-iso="1501" to-iso="1504">(1501–4)</date>
+                	<head><supplied>f 227v <date from-iso="1501-09-29" to-iso="1502-09-29">(29 September 1501–29 September 1502)</date> (Owing)
                     </supplied></head>
-                    <pb n="58v" type="folio"/>
-                    <gap reason="omitted"/>   
-            <table>
-                <row><cell>It<ex>em</ex> payd to thomas A wod Carpynter ffor makyng off owr skaffowlld A yen
-                    the prynces cam in v s. j d. and to the laboras ffor makyng off the hollys ffor
-                    the tymbyr and ffor the stopyng A yen ij s. ij d.</cell><cell/></row>
-                <row><cell>It<ex>em</ex> payd att ij tymes <del>fo</del> to the karter ffor bryngyng owr <del><damage><gap unit="chars" extent="1"/></damage>ey</del> stuff ffrom
-                    Ihon Allssopp one tyme iiij d. the second tyme iij d.</cell><cell/></row>
-                <row><cell>It<ex>em</ex> payd ffor the hangyng up of owr clothys And bestoyng
-                    off owr stuff</cell><cell>j d.</cell></row>
-            </table>
+                    <pb n="227v" type="folio"/>
+                	
+                	<table>
+                		<row><cell>Vpon Cristopher Eliot and Edward ffenkill<note type="foot">Cristopher Eliot and Edward ffenkill: <hi rend="italic">Bridge wardens 1499–1500</hi></note> as the
+                			residewe of CCCxix li. xv s. ij d. soo declared in the
+                			fote of the last accompte.</cell><cell>Cxxij li. viij s. v d.</cell></row>
+                	</table>
+                	<ab>The whiche Cxxij li. viij s. v d.<note type="foot">Cxxij li. ... v d.: <hi rend="italic">underlined in MS</hi></note> been allowed to the said Cristopher and
+                		Edward the xix<hi rend="superscript">th</hi> day of Septembr<ex>e</ex> the xix<hi rend="superscript">th</hi> yere of king Henry the vij<hi rend="superscript">th</hi>. by
+                		the Maire and Aldermen as in money expendyd and paid for the new making
+                		of a pagente set vpon london bridge in thentre of the lady princes of Spayne<note type="foot">thentre ... Spayne: <hi rend="italic">entry of Katherine of Aragon
+                			12 November 1501</hi></note>
+                		And as of record in the Courte of the said Maire and Aldermen plainely doth
+                		appere &amp; sic s<ex>u</ex>m<ex>m</ex>a illa</ab>
             <gap reason="omitted"/>
-        </div>
-                <div xml:lang="en">
-                    <head><supplied>f 60
-                    </supplied></head>
-                    <pb n="60" type="folio"/>
-                	<ab rend="center">Receued off the brether to the makyng off the skaffolld in Cornell ayen the
-                		prynsses cam<note type="foot">Receued ... cam: <hi rend="italic">followed by a list of 8 contributions totalling 11s 4d</hi></note></ab>
-                    <gap reason="omitted"/>
                 </div>
             </div>
-            <div type="event">
+        	<div type="endnote"><div><head>Endnote</head>
+        		<p>Eliot and Fenkyll, Bridge wardens 29 September 1499–29 September 1500, are recorded in the 1500–1
+        			account on f 216v, as here on f 227v in the 1501–2 account, as still owing the city £319 15s 2d from
+        			their wardenship term. Now £122 8s 5d of that amount is allowed to them, at the 19 September 1503
+        			audit of the 1501–2 account, as having been expended on the Bridge’s pageant for the 12 November
+        			1501 royal entry of Katherine of Aragon.</p></div></div>
+        	<div type="event">
                 <head>Event note:</head>
-                <p>This record refers to the royal entry of Katherine of Aragon on 12 November 1501.</p>
+        		<p>This record refers to the royal entry of Katherine of Aragon on 12 November 1501.</p>
             </div>
         
 </body>

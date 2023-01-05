@@ -699,37 +699,52 @@
    </teiHeader>
     <text type="record">
         <body>
-            <div><head><title>Wiresellers' Wardens' Accounts, <date from-iso="1501" to-iso="1502">1501–2</date></title>
+        	<div><head><title>Brewers’ Wardens’ Accounts, <date from-iso="1501" to-iso="1502">1501–2</date></title>
             </head></div>
             <div type="transcription">
                 <div xml:lang="en">
-                    <head><supplied>f 58v <date from-iso="1501" to-iso="1504">(1501–4)</date>
+                	<head><supplied>p [15] of 1501–2 account <date when-iso="1503-02-21">(Rendered 21 February 1502/3)</date> (Customary
+                		expenses)
                     </supplied></head>
-                    <pb n="58v" type="folio"/>
-                    <gap reason="omitted"/>   
-            <table>
-                <row><cell>It<ex>em</ex> payd to thomas A wod Carpynter ffor makyng off owr skaffowlld A yen
-                    the prynces cam in v s. j d. and to the laboras ffor makyng off the hollys ffor
-                    the tymbyr and ffor the stopyng A yen ij s. ij d.</cell><cell/></row>
-                <row><cell>It<ex>em</ex> payd att ij tymes <del>fo</del> to the karter ffor bryngyng owr <del><damage><gap unit="chars" extent="1"/></damage>ey</del> stuff ffrom
-                    Ihon Allssopp one tyme iiij d. the second tyme iij d.</cell><cell/></row>
-                <row><cell>It<ex>em</ex> payd ffor the hangyng up of owr clothys And bestoyng
-                    off owr stuff</cell><cell>j d.</cell></row>
-            </table>
+                    <pb n="[15]" type="page"/>
+                	<gap reason="omitted"/>
+                	<table>
+                		<row><cell>It<ex>e</ex>m paid vnto Seynt <add place="above">Nicolas clerk<ex>es</ex></add> <del>Clerk<ex>es</ex></del> opon
+                			Seynt Nicolas Even</cell><cell>iiij d.</cell></row>
+                	</table>
             <gap reason="omitted"/>
-        </div>
-                <div xml:lang="en">
-                    <head><supplied>f 60
-                    </supplied></head>
-                    <pb n="60" type="folio"/>
-                	<ab rend="center">Receued off the brether to the makyng off the skaffolld in Cornell ayen the
-                		prynsses cam<note type="foot">Receued ... cam: <hi rend="italic">followed by a list of 8 contributions totalling 11s 4d</hi></note></ab>
-                    <gap reason="omitted"/>
                 </div>
+            	<div xml:lang="en">
+            		<head><supplied>p [17] of 1501–2 account (Costs of various dinners)
+            	</supplied></head>
+                	<pb n="[17]" type="page"/>
+                	<gap reason="omitted"/> 
+            		<table>
+            			<row><cell>ffirst cost<ex>es</ex> made of A den<ex>er</ex> vnto the hole Company
+            				In the lyu<ex>er</ex>ey beyng p<ex>re</ex>sent with <del>the</del> Sir Iohn Shaa
+            				knyght then Maire<note type="foot">Sir ... Maire: <hi rend="italic">John Shaa, goldsmith</hi></note> In takyng his othe<note type="foot">takyng his othe: <hi rend="italic">the mayor’s oath-taking October 1501</hi></note> At westm<ex>inster</ex>
+            				the Barons of the kyng<ex>es</ex> escheker then kepyng ther
+            				co<ex>ur</ex>t at that tym In the kyng<ex>es</ex> Stondyng then at that
+            				tym ordendyned and made for the Iust<ex>es</ex> at the Mariage
+            				of p<ex>ri</ex>nce Arthur and Kat<ex>er</ex>yn secund dought<ex>er</ex> of kyng
+            				of Spayn<note type="foot">Mariage ... Spayn: <hi rend="italic">14 November</hi></note></cell><cell>liiij s. vj d.</cell></row>
+            		</table>
+                	<gap reason="omitted"/>      	
+        </div>
             </div>
-            <div type="event">
+        	<div type="endnote"><div><head>Endnote</head>
+        		<p>This is the company’s 1501–2 account, rendered 21 February 1502/3, running almost certainly from
+        			September to September (see Lancashire (ed), <title>Civic London to 1558</title>, p lxxxiv). The St Nicholas Eve specified in the payment
+        			transcribed from p [15] is thus in December 1501; for St Nicholas clerks in the Brewers’ records in
+        			general, see pp 1297–8, endnote to LMA: CLC/L/BF/D/001/MS05442/001 p [14] of the company’s
+        			1500–1 account. The record from p [17] has been included here because it provides an example of the
+        			kinds of physical problems the city’s mayoral oath-taking from time to time had to take into account.
+        			Katherine of Aragon married Prince Arthur (heir to the English throne) on 14 November in London,
+        			and went to Westminster on 16 November, where the court celebrations included jousts. For the civic
+        			details and dates, see <ref target="https://cwrc.ca/islandora/object/reed%3A6cd7b092-fca1-4b8b-a388-e6a9ce10164e#page/1/mode/1up">Appendix 1</ref> under 1501–2.</p></div></div>
+        	<div type="event">
                 <head>Event note:</head>
-                <p>This record refers to the royal entry of Katherine of Aragon on 12 November 1501.</p>
+                <p>This record refers to the presence of Katherine of Aragon at Westminster on 16 November 1501.</p>
             </div>
         
 </body>

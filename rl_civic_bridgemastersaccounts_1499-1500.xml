@@ -699,34 +699,35 @@
    </teiHeader>
     <text type="record">
         <body>
-            <div><head><title>Wiresellers' Wardens' Accounts, <date from-iso="1501" to-iso="1502">1501–2</date></title>
+            <div><head><title>Bridgemasters' Annual Accounts and Rentals, <date from-iso="1499" to-iso="1500">1499–1500</date></title>
             </head></div>
             <div type="transcription">
                 <div xml:lang="en">
-                    <head><supplied>f 58v <date from-iso="1501" to-iso="1504">(1501–4)</date>
+                    <head><supplied>f 203 <date from-iso="1499-09-29" to-iso="1500-09-29">(29 September–29 September)</date> (Sales)
                     </supplied></head>
-                    <pb n="58v" type="folio"/>
+                    <pb n="203" type="folio"/>
                     <gap reason="omitted"/>   
             <table>
-                <row><cell>It<ex>em</ex> payd to thomas A wod Carpynter ffor makyng off owr skaffowlld A yen
-                    the prynces cam in v s. j d. and to the laboras ffor makyng off the hollys ffor
-                    the tymbyr and ffor the stopyng A yen ij s. ij d.</cell><cell/></row>
-                <row><cell>It<ex>em</ex> payd att ij tymes <del>fo</del> to the karter ffor bryngyng owr <del><damage><gap unit="chars" extent="1"/></damage>ey</del> stuff ffrom
-                    Ihon Allssopp one tyme iiij d. the second tyme iij d.</cell><cell/></row>
-                <row><cell>It<ex>em</ex> payd ffor the hangyng up of owr clothys And bestoyng
-                    off owr stuff</cell><cell>j d.</cell></row>
+            	<row><cell>Vendicions Of diu<ex>er</ex>s p<ex>er</ex>sones for bordes/ quarters/
+            		plankes/ Ragge/ &amp; other stuffe of the said bridge store.
+            		this yere sold wherof the p<ex>ar</ex>cell<ex>es</ex> been p<ex>ar</ex>ticulerly
+            		entred in the Iournall amonge other remembraunc<ex>es</ex>
+            		of this acco<ex>m</ex>mpte. xvj s. vj d./ Also they<note type="foot">they: <hi rend="italic">Christopher Eliot and Edward Fenkyll, Bridge wardens</hi></note> be charged
+            		w<ex>i</ex>t<ex>h</ex> vj li. iiij s. for boord tymbre and sawing therof.
+            		By the said chr<ex>ist</ex>ofer<note type="foot">chr<ex>ist</ex>ofer: <hi rend="italic">Christopher Eliot</hi></note> take<ex>n</ex> &amp; hadde oute of the said
+            		store to the vse of the stage and p<ex>er</ex>sonages this yere
+            		wrought &amp; made. to be set vpon the said bridge ayenst
+            		the comyng yn of the Princes/ Whose p<ex>ar</ex>cellis apperith
+            		as abouesaid/ And with. x s. for a principall pece of
+            		oketymbre cont<ex>aining</ex> xlviij. fete./ And. vj. large
+            		okeplank<ex>es</ex> take &amp; had oute of the said store by Thomas
+            		<add place="above">carpenter</add> Maunsy</cell><cell>vij li. x s. xj d.</cell></row>
             </table>
             <gap reason="omitted"/>
         </div>
-                <div xml:lang="en">
-                    <head><supplied>f 60
-                    </supplied></head>
-                    <pb n="60" type="folio"/>
-                	<ab rend="center">Receued off the brether to the makyng off the skaffolld in Cornell ayen the
-                		prynsses cam<note type="foot">Receued ... cam: <hi rend="italic">followed by a list of 8 contributions totalling 11s 4d</hi></note></ab>
-                    <gap reason="omitted"/>
-                </div>
             </div>
+        	<div type="endnote"><div><head>Endnote</head>
+        	<p>The first word of the item transcribed from f 203 serves also as a heading in the manuscript.</p></div></div>
             <div type="event">
                 <head>Event note:</head>
                 <p>This record refers to the royal entry of Katherine of Aragon on 12 November 1501.</p>

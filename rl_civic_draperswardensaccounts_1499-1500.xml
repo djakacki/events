@@ -699,35 +699,25 @@
    </teiHeader>
     <text type="record">
         <body>
-            <div><head><title>Wiresellers' Wardens' Accounts, <date from-iso="1501" to-iso="1502">1501–2</date></title>
+            <div><head><title>Drapers' Wardens' Accounts, <date from-iso="1499" to-iso="1500">1499–1500</date></title>
             </head></div>
             <div type="transcription">
                 <div xml:lang="en">
-                    <head><supplied>f 58v <date from-iso="1501" to-iso="1504">(1501–4)</date>
+                    <head><supplied>f 69 <date from-iso="1499-08-15" to-iso="1500-08-15">(c 15 August–c 15 August)</date> (Payments)
                     </supplied></head>
-                    <pb n="58v" type="folio"/>
+                    <pb n="69" type="folio"/>
                     <gap reason="omitted"/>   
             <table>
-                <row><cell>It<ex>em</ex> payd to thomas A wod Carpynter ffor makyng off owr skaffowlld A yen
-                    the prynces cam in v s. j d. and to the laboras ffor makyng off the hollys ffor
-                    the tymbyr and ffor the stopyng A yen ij s. ij d.</cell><cell/></row>
-                <row><cell>It<ex>em</ex> payd att ij tymes <del>fo</del> to the karter ffor bryngyng owr <del><damage><gap unit="chars" extent="1"/></damage>ey</del> stuff ffrom
-                    Ihon Allssopp one tyme iiij d. the second tyme iij d.</cell><cell/></row>
-                <row><cell>It<ex>em</ex> payd ffor the hangyng up of owr clothys And bestoyng
-                    off owr stuff</cell><cell>j d.</cell></row>
-            </table>
+            	<row><cell>It<ex>e</ex>m for the Mayr<ex>es</ex> Mees Mynstrell<ex>es</ex> players and
+            		Rishes</cell><cell>vj li. xiij s. iiij d.<note type="foot">It<ex>e</ex>m ... iiij d.: <hi rend="superscript">for the August feast time</hi></note></cell></row>
+            	</table>
             <gap reason="omitted"/>
+                	<table><row><cell>It<ex>e</ex>m for a xv<hi rend="superscript">th</hi> and di. ayens the co<ex>m</ex>myng of the
+                		king<ex>es</ex> doughter of Spayn for this place</cell><cell>iij s.</cell></row></table>
+                	<gap reason="omitted"/>
         </div>
-                <div xml:lang="en">
-                    <head><supplied>f 60
-                    </supplied></head>
-                    <pb n="60" type="folio"/>
-                	<ab rend="center">Receued off the brether to the makyng off the skaffolld in Cornell ayen the
-                		prynsses cam<note type="foot">Receued ... cam: <hi rend="italic">followed by a list of 8 contributions totalling 11s 4d</hi></note></ab>
-                    <gap reason="omitted"/>
-                </div>
             </div>
-            <div type="event">
+        	<div type="event">
                 <head>Event note:</head>
                 <p>This record refers to the royal entry of Katherine of Aragon on 12 November 1501.</p>
             </div>

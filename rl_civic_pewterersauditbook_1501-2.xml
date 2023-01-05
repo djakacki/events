@@ -699,37 +699,29 @@
    </teiHeader>
     <text type="record">
         <body>
-            <div><head><title>Wiresellers' Wardens' Accounts, <date from-iso="1501" to-iso="1502">1501–2</date></title>
+        	<div><head><title>Pewterers’ Audit Book, <date from-iso="1501" to-iso="1502">1501–2</date></title>
             </head></div>
             <div type="transcription">
                 <div xml:lang="en">
-                    <head><supplied>f 58v <date from-iso="1501" to-iso="1504">(1501–4)</date>
+                	<head><supplied>f 143v <date from-iso="1501-09-29" to-iso="1502-09-29">(29 September–29 September)</date> (Payments)
                     </supplied></head>
-                    <pb n="58v" type="folio"/>
-                    <gap reason="omitted"/>   
-            <table>
-                <row><cell>It<ex>em</ex> payd to thomas A wod Carpynter ffor makyng off owr skaffowlld A yen
-                    the prynces cam in v s. j d. and to the laboras ffor makyng off the hollys ffor
-                    the tymbyr and ffor the stopyng A yen ij s. ij d.</cell><cell/></row>
-                <row><cell>It<ex>em</ex> payd att ij tymes <del>fo</del> to the karter ffor bryngyng owr <del><damage><gap unit="chars" extent="1"/></damage>ey</del> stuff ffrom
-                    Ihon Allssopp one tyme iiij d. the second tyme iij d.</cell><cell/></row>
-                <row><cell>It<ex>em</ex> payd ffor the hangyng up of owr clothys And bestoyng
-                    off owr stuff</cell><cell>j d.</cell></row>
-            </table>
+                    <pb n="143v" type="folio"/>
+                	<gap reason="omitted"/>
+                	<table>
+                		<row><cell>It<ex>e</ex>m p<ex>ai</ex>d to the Carpent<ex>er</ex> for the Raile of our standyng
+                			next to the pagent in Cornehill ayenst the Comyng of the
+                			princes from Spayne</cell><cell>xij s. viij d.</cell></row>
+                		<row><cell>It<ex>e</ex>m pavyng after the Railis there taken vp</cell><cell>xviij d.</cell></row>
+                	</table>
             <gap reason="omitted"/>
-        </div>
-                <div xml:lang="en">
-                    <head><supplied>f 60
-                    </supplied></head>
-                    <pb n="60" type="folio"/>
-                	<ab rend="center">Receued off the brether to the makyng off the skaffolld in Cornell ayen the
-                		prynsses cam<note type="foot">Receued ... cam: <hi rend="italic">followed by a list of 8 contributions totalling 11s 4d</hi></note></ab>
-                    <gap reason="omitted"/>
                 </div>
             </div>
-            <div type="event">
+        	<div type="endnote"><div><head>Endnote</head>
+        		<p>For the Cornhill pageant at the royal entry of Katherine of Aragon on 12 November 1501, see <ref target="https://cwrc.ca/islandora/object/reed%3A6cd7b092-fca1-4b8b-a388-e6a9ce10164e#page/1/mode/1up">Appendix 1</ref>
+        			under 1501–2.</p></div></div>
+        	<div type="event">
                 <head>Event note:</head>
-                <p>This record refers to the royal entry of Katherine of Aragon on 12 November 1501.</p>
+        		<p>This record refers to the royal entry of Katherine of Aragon on 12 November 1501.</p>
             </div>
         
 </body>
