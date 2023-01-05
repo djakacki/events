@@ -1,0 +1,1208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">REED London Online</title>
+				<funder>
+					<orgName>Andrew W. Mellon Foundation<address>
+							<addrLine>140 E. 62nd Street</addrLine>
+							<addrLine>New York, NY 1006</addrLine>
+							<addrLine>United States of America</addrLine>
+						</address>
+					</orgName>
+					<date from-iso="2018-01-01" to-iso="2018-12-31">NHPRC-Mellon Planning
+						Grant</date>
+					<date from-iso="2020-01-01" to-iso="2023-12-31">NHPRC-Mellon Implementation
+						Grant</date>
+				</funder>
+
+				<!-- The following persons participated in the second phase of REED London Online, funded by an NHPRC-Andrew W. Mellon Digital Edition Publishing Cooperatives Implementation Grant, 2020-22  -->
+
+				<respStmt>
+					<persName xml:id="JAKA1">Diane K. Jakacki</persName>
+					<orgName>Bucknell University</orgName>
+					<resp>Principal Investigator, REED London Online</resp>
+					<resp>Records of Early English Drama (REED) Executive Board</resp>
+				</respStmt>
+				<respStmt>
+					<persName xml:id="CB">Carolyn Black</persName>
+					<orgName>Records of Early English Drama (REED)</orgName>
+					<resp>Project Manager, REED</resp>
+					<resp>NHPRC-Mellon Project Team Member, 2018-Present</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Susan Brown</persName>
+					<orgName>University of Guelph</orgName>
+					<resp>Lead Investigator, Canadian Writing Research Collaboratory (CWRC)</resp>
+					<resp>NHPRC-Mellon Project Team Member, 2018-Present</resp>
+				</respStmt>
+				<respStmt>
+					<persName xml:id="JC">James Cummings</persName>
+					<orgName>Newcastle University</orgName>
+					<resp>NHPRC-Mellon Project Team Member, 2018-Present</resp>
+					<resp>Records of Early English Drama (REED) Executive Board</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Mihaela Ilovan</persName>
+					<orgName>CWRC</orgName>
+					<resp>Project Manager, CWRC</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Sally-Beth MacLean</persName>
+					<orgName>Records of Early English Drama (REED)</orgName>
+					<resp>Director of Research and General Editor</resp>
+					<resp>NHPRC-Mellon Project Team Member, 2018-Present</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Kim Martin</persName>
+					<orgName>University of Guelph</orgName>
+					<resp>NHPRC-Mellon Project Team Member, 2018-Present</resp>
+					<resp>Linked Data Consultant</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Rachel Millio</persName>
+					<orgName>Bucknell University</orgName>
+					<resp>Research Assistant, 2018-Present</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Charlotte Simon</persName>
+					<orgName>Bucknell University</orgName>
+					<resp>Research Assistant, 2018-Present</resp>
+				</respStmt>
+
+				<!-- The following additional persons participated in the first phase of REED London, funded by an NHPRC-Andrew W. Mellon Digital Edition Publishing Cooperatives Planning Grant, 2018 -->
+
+				<respStmt>
+					<persName>John Bradley</persName>
+					<resp>NHPRC-Mellon Project Team Member, 2018</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Kathy Chung</persName>
+					<orgName>Records of Early English Drama (REED)</orgName>
+					<resp>REED Research Associate, NHPRC-Mellon Project Consultant, 2018</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Matthew Davies</persName>
+					<orgName>University of London, Birkbeck College</orgName>
+					<resp>Records of Early English Drama (REED) Executive Board</resp>
+					<resp>NHPRC-Mellon Project Team Member, 2018</resp>
+				</respStmt>
+				<respStmt>
+					<persName>David Kathman</persName>
+					<resp>NHPRC-Mellon Project Team Member, 2018</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Maureen Maclean</persName>
+					<orgName>Bucknell University</orgName>
+					<resp>REED London Research Assistant, 2018-2020</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Christopher Matusiak</persName>
+					<orgName>Ithaca College</orgName>
+					<resp>NHPRC-Mellon Project Team Member, 2018</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Dorothy Porter</persName>
+					<orgName>University of Pennsylvania</orgName>
+					<resp>NHPRC-Mellon Project Team Member, 2018</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Suzanne Westfall</persName>
+					<orgName>Lafayette College</orgName>
+					<resp>Records of Early English Drama (REED) Executive Board Member</resp>
+					<resp>NHPRC-Mellon Project Team Member, 2018</resp>
+				</respStmt>
+
+				<!-- The following persons are editors of REED print collections considered in REED London Online -->
+
+				<respStmt>
+					<persName>John R. Elliott Jr.</persName>
+					<resp>Editor, Inns of Court</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Mary C. Erler</persName>
+					<resp>Editor, Ecclesiastical London</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Anne Lancashire</persName>
+					<resp>Editor, Civic London to 1558</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Alan H. Nelson</persName>
+					<resp>Editor, Inns of Court</resp>
+				</respStmt>
+
+				<!-- The following persons are members of the REED Executive Board (2022-2023) -->
+				<respStmt>
+					<persName>John Craig</persName>
+					<orgName>Simon Fraser University</orgName>
+					<resp>Chair</resp>
+				</respStmt>
+				<respStmt>
+					<persName>James Cummings</persName>
+					<orgName>Newcastle University</orgName>
+					<resp>Board Member</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Matthew Davies</persName>
+					<orgName>University of London</orgName>
+					<resp>Board Member</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Peter Greenfield</persName>
+					<orgName>University of Puget Sound</orgName>
+					<resp>Secretary</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Diane Jakacki</persName>
+					<orgName>Bucknell University</orgName>
+					<resp>Board Member</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Alexandra F. Johnston</persName>
+					<orgName>University of Toronto</orgName>
+					<resp>Founder and Senior Consultant</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Naomi Morgenstern</persName>
+					<orgName>University of Toronto</orgName>
+					<resp>Graduate Chair and Chair of Department of English, ex officio</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Sally-Beth MacLean</persName>
+					<orgName>University of Toronto</orgName>
+					<resp>Director of Research and General Editor</resp>
+				</respStmt>
+				<respStmt>
+					<persName>C.E. McGee</persName>
+					<orgName>St Jerome’s University</orgName>
+					<resp>Board Member</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Alan H. Nelson</persName>
+					<orgName>University of California, Berkeley</orgName>
+					<resp>Board Member</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Suzanne Westfall</persName>
+					<orgName>Lafayette College</orgName>
+					<resp>Board Member</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Paul Whitfield White</persName>
+					<orgName>UPurdue University</orgName>
+					<resp>Board Member</resp>
+				</respStmt>
+				<respStmt>
+					<persName>John Bradley</persName>
+					<orgName>King’s College London</orgName>
+					<resp>Senior Digital Advisor</resp>
+				</respStmt>
+				<respStmt>
+					<persName>J.J. McGavin</persName>
+					<orgName>University of Southampton</orgName>
+					<resp>Corresponding Advisor</resp>
+				</respStmt>
+
+				<!-- The following persons were REED directors and editorial staff involved in the print publication of Civic London to 1558, Ecclesiastical London, and Inns of Court -->
+
+				<respStmt>
+					<persName>Carolyn Black</persName>
+					<orgName>Records of Early English Drama (REED)</orgName>
+					<resp>Associate Editor</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Jason Boyd</persName>
+					<orgName>Records of Early English Drama (REED)</orgName>
+					<resp>Patrons Researcher, Inns of Court</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Patrick Gregory</persName>
+					<orgName>Records of Early English Drama (REED)</orgName>
+					<resp>Associate Editor, Civic London to 1558 and Inns of Court</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Tanya Hagen</persName>
+					<orgName>Records of Early English Drama (REED)</orgName>
+					<resp>Bibliographer</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Alexandra F. Johnston</persName>
+					<orgName>Records of Early English Drama (REED)</orgName>
+					<resp>Director</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Milton Kooistra</persName>
+					<orgName>Records of Early English Drama (REED)</orgName>
+					<resp>Associate Bibliographer, Inns of Court</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Maria Lau</persName>
+					<orgName>Records of Early English Drama (REED)</orgName>
+					<resp>Typesetter, Civic London to 1558 and Inns of Court</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Sally-Beth MacLean</persName>
+					<orgName>Records of Early English Drama (REED)</orgName>
+					<resp>Associate Director/Executive Editor</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Gord Oxley</persName>
+					<orgName>Records of Early English Drama (REED)</orgName>
+					<resp>Typesetter, Civic London to 1558 and Ecclesiastical London</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Arleane Ralph</persName>
+					<orgName>Records of Early English Drama (REED)</orgName>
+					<resp>Associate Editor, Ecclesiastical London</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Abigail Ann Young</persName>
+					<orgName>Records of Early English Drama (REED)</orgName>
+					<resp>Associate Editor</resp>
+				</respStmt>
+
+			</titleStmt>
+			<editionStmt>
+				<edition>version 2, released <date when-iso="2020-01-01">1 January
+					2020</date></edition>
+			</editionStmt>
+			<publicationStmt>
+				<authority>
+					<orgName>Records of Early English Drama (REED)</orgName>
+					<address>
+						<addrLine>University of Toronto</addrLine>
+						<addrLine>170 St George Street, Suite 810</addrLine>
+						<addrLine>Toronto, Ontario, Canada</addrLine>
+						<addrLine>M5R 2M8</addrLine>
+					</address>
+				</authority>
+				<availability>
+					<p>Copyright <orgName>Records of Early English Drama (REED)</orgName>,
+							<date>2020</date></p>
+					<licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Distributed
+						under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+						International (CC BY-NC-SA 4.0) licence.</licence>
+				</availability>
+			</publicationStmt>
+			<seriesStmt>
+				<title>Records of Early English Drama</title>
+			</seriesStmt>
+			<sourceDesc>
+				<p>This publication constitutes a remediation of the printed REED collections - Inns
+					of Court, Ecclesiastical London, and Civic London to 1558. Information on
+					original sources for transcriptions can be accessed via the Document
+					Descriptions. <listBibl>
+						<biblStruct>
+							<monogr>
+								<title>Ecclesiastical London</title>
+								<editor>
+									<persName>
+										<forename>Mary</forename>
+										<addName>C.</addName>
+										<surname>Erler</surname>
+									</persName>
+								</editor>
+								<imprint>
+									<publisher>University of Toronto Press and The British
+										Library.</publisher>
+									<date>2008</date>
+								</imprint>
+								<biblScope unit="page">504</biblScope>
+								<extent>
+									<idno type="ISBN">978-0-8020-9858-0</idno>
+									<idno type="ISBN">978-0-7123-5024-2</idno>
+								</extent>
+							</monogr>
+						</biblStruct>
+						<biblStruct>
+							<monogr>
+								<title>Inns of Court</title>
+								<editor>
+									<persName>
+										<forename>Alan</forename>
+										<addName>H.</addName>
+										<surname>Nelson</surname>
+									</persName>
+								</editor>
+								<editor>
+									<persName>
+										<forename>John</forename>
+										<addName>R.</addName>
+										<surname>Elliott, Jr</surname>
+									</persName>
+								</editor>
+								<imprint>
+									<publisher>Boydell &amp; Brewer</publisher>
+									<date>2010</date>
+								</imprint>
+								<biblScope unit="page" n="1174">1174</biblScope>
+								<biblScope unit="volume">3</biblScope>
+								<biblScope>
+									<idno type="ISBN">978-1-84384-259-0</idno>
+								</biblScope>
+							</monogr>
+						</biblStruct>
+						<biblStruct>
+							<monogr>
+								<title>Civic London to 1558</title>
+								<editor>
+									<persName>
+										<forename>Ann</forename>
+										<surname>Lancashire</surname>
+									</persName>
+								</editor>
+								<editor>
+									<persName>
+										<forename>David</forename>
+										<addName>J.</addName>
+										<surname>Parkinson</surname>
+									</persName>
+								</editor>
+								<imprint>
+									<publisher>Boydell &amp; Brewer</publisher>
+									<date>2015</date>
+								</imprint>
+								<biblScope unit="volume">3</biblScope>
+								<biblScope unit="page">1795</biblScope>
+								<biblScope>
+									<idno type="ISBN">978-1-84384-399-3</idno>
+								</biblScope>
+							</monogr>
+						</biblStruct>
+					</listBibl>
+				</p>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>Records of Early English Drama (REED) is an international scholarly project that
+					is establishing for the first time the context from which the drama of
+					Shakespeare and his contemporaries grew. Founded in 1976, REED has worked since
+					then to locate, transcribe, and edit historical documents containing evidence of
+					drama, secular music, and other communal entertainment and ceremony from the
+					Middle Ages until 1642, when the Puritans closed the London theatres.</p>
+				<p>REED London Online is a prototype online collection developing from the Records
+					of Early English Drama (REED) in partnership with the Canadian Writing Research
+					Collaboratory (CWRC) and supported by Bucknell University. It aims to establish
+					an openly accessible online scholarly and pedagogical resource of London-centric
+					documentary, editorial, and bibliographic materials related to performance,
+					theatre, and music spanning the period 1100-1642. With support from an
+					NHPRC-Mellon Planning Grant for Digital Edition Publishing Cooperatives and
+					CANARIE Research Software Program grants, REED London is creating new
+					environments for scholarly presentation of archival materials gathered from
+					legal, ecclesiastical, civic, political, and personal archival sources in and
+					around London. The objective of the REED London project team is to build a
+					stable, extensible publication environment that optimizes access to these
+					compiled materials in ways that respond to scholars’ research interests across
+					disciplines. Consulting with other planning grant recipients will be invaluable
+					to ensuring that REED London’s production and publication environment is in line
+					with standards laid out in the NHPRC-Mellon grant objectives. It is hoped that
+					the progress REED London and CWRC make will also inform the larger dialogue
+					about best practices among funded teams.</p>
+			</projectDesc>
+			<classDecl>
+				<taxonomy>
+					<category xml:id="bibliography_sections">
+						<catDesc>Bibliography Sections</catDesc>
+						<category xml:id="ioc">
+							<catDesc>Inns of Court</catDesc>
+						</category>
+						<category xml:id="eccl">
+							<catDesc>Ecclesiastical London</catDesc>
+						</category>
+						<category xml:id="civic">
+							<catDesc>Civic London to 1558</catDesc>
+						</category>
+					</category>
+					<category xml:id="record_types">
+						<catDesc>Record Types</catDesc>
+						<category xml:id="central_gvt">
+							<catDesc>central government and royal</catDesc>
+						</category>
+						<category xml:id="chron_hist">
+							<catDesc>chronicles and histories</catDesc>
+						</category>
+						<category xml:id="church">
+							<catDesc>church</catDesc>
+						</category>
+						<category xml:id="corr_diplomatic">
+							<catDesc>correspondence, diplomatic</catDesc>
+						</category>
+						<category xml:id="corr_personal">
+							<catDesc>correspondence, personal</catDesc>
+						</category>
+						<category xml:id="education">
+							<catDesc>educational institution</catDesc>
+						</category>
+						<category xml:id="family">
+							<catDesc>family</catDesc>
+						</category>
+						<category xml:id="guild_craft">
+							<catDesc>guild, craft/trade</catDesc>
+						</category>
+						<category xml:id="guild_rel">
+							<catDesc>guild, religious</catDesc>
+						</category>
+						<category xml:id="legal">
+							<catDesc>legal</catDesc>
+						</category>
+						<category xml:id="local_gvt">
+							<catDesc>local government</catDesc>
+						</category>
+						<category xml:id="manor">
+							<catDesc>manorial</catDesc>
+						</category>
+						<category xml:id="rel_community">
+							<catDesc>religious community</catDesc>
+						</category>
+					</category>
+
+					<category xml:id="repositories">
+						<catDesc>Repositories</catDesc>
+						<category xml:id="all-hallows-tower">
+							<catDesc>All Hallows by the Tower Muniments Room</catDesc>
+						</category>
+						<category xml:id="AGS">
+							<catDesc>
+								<choice>
+									<abbr>AGS</abbr>
+									<expan>Archivo General de Simancas</expan>
+								</choice>
+							</catDesc>
+						</category>
+						<category xml:id="archivo-segreto-vaticano">
+							<catDesc>Archivo Segreto Vaticano</catDesc>
+						</category>
+						<category xml:id="archivo-stato">
+							<catDesc>Archivio di Stato</catDesc>
+						</category>
+						<category xml:id="barber-surgeons-hall">
+							<catDesc> Barber-Surgeons' Hall</catDesc>
+						</category>
+						<category xml:id="BL">
+							<catDesc>
+								<choice>
+									<abbr>BL</abbr>
+									<expan>British Library</expan>
+								</choice>
+							</catDesc>
+						</category>
+						<category xml:id="Bodl.">
+							<catDesc>
+								<choice>
+									<abbr>Bodl.</abbr>
+									<expan>Bodleian</expan>
+								</choice>
+							</catDesc>
+						</category>
+						<category xml:id="CH">
+							<catDesc>
+								<choice>
+									<abbr>CH</abbr>
+									<expan>Clothworkers' Hall</expan>
+								</choice>
+							</catDesc>
+						</category>
+						<category xml:id="CUL">
+							<catDesc>
+								<choice>
+									<abbr>CUL</abbr>
+									<expan>Cambridge University Library</expan>
+								</choice>
+							</catDesc>
+						</category>
+						<category xml:id="derbyshire-record-office">
+							<catDesc>Derbyshire Record Office</catDesc>
+						</category>
+						<category xml:id="dorset-history-centre">
+							<catDesc>Dorset History Centre</catDesc>
+						</category>
+						<category xml:id="DH">
+							<catDesc>
+								<choice>
+									<abbr>DH</abbr>
+									<expan>Drapers' Hall</expan>
+								</choice>
+							</catDesc>
+						</category>
+						<category xml:id="folger-shakespeare-library">
+							<catDesc>Folger Shakespeare Library</catDesc>
+						</category>
+						<category xml:id="GH">
+							<catDesc>
+								<choice>
+									<abbr>GH</abbr>
+									<expan>Goldsmiths' Hall</expan>
+								</choice>
+							</catDesc>
+						</category>
+						<category xml:id="gonville-caius-library">
+							<catDesc>Gonville and Caius College Library (Cambridge)</catDesc>
+						</category>
+						<category xml:id="GI-Arch">
+							<catDesc>
+								<choice>
+									<abbr>GI Arch</abbr>
+									<expan>Gray's Inn Archives</expan>
+								</choice>
+							</catDesc>
+						</category>
+						<category xml:id="GL">
+							<catDesc>
+								<choice>
+									<abbr>GL</abbr>
+									<expan>Guildhall Library</expan>
+								</choice>
+							</catDesc>
+						</category>
+						<category xml:id="hatfield-house-library">
+							<catDesc>Hatfield House Library</catDesc>
+						</category>
+						<category xml:id="IT-Arch">
+							<catDesc>
+								<choice>
+									<abbr>IT Arch</abbr>
+									<expan>Inner Temple Archives</expan>
+								</choice>
+							</catDesc>
+						</category>
+						<category xml:id="IT-Lib">
+							<catDesc>
+								<choice>
+									<abbr>IT Lib</abbr>
+									<expan>Inner Temple Library</expan>
+								</choice>
+							</catDesc>
+						</category>
+						<category xml:id="lambeth-palace-library">
+							<catDesc>Lambeth Palace Library</catDesc>
+						</category>
+						<category xml:id="leathersellers-hall">
+							<catDesc>Leathersellers' Hall</catDesc>
+						</category>
+						<category xml:id="lincoln-cathedral-library">
+							<catDesc>Lincoln Cathedral Library</catDesc>
+						</category>
+						<category xml:id="LI-Arch">
+							<catDesc>
+								<choice>
+									<abbr>LI Arch</abbr>
+									<expan>Lincoln's Inn Archives</expan>
+								</choice>
+							</catDesc>
+						</category>
+						<category xml:id="LI-Lib">
+							<catDesc>
+								<choice>
+									<abbr>LI Lib</abbr>
+									<expan>Lincoln's Inn Library</expan>
+								</choice>
+							</catDesc>
+						</category>
+						<category xml:id="LMA">
+							<catDesc>
+								<choice>
+									<abbr>LMA</abbr>
+									<expan>London Metropolitan Archives</expan>
+								</choice>
+							</catDesc>
+						</category>
+						<category xml:id="longleat-house">
+							<catDesc>Longleat House</catDesc>
+						</category>
+						<category xml:id="mercers-hall">
+							<catDesc>Mercers' Hall</catDesc>
+						</category>
+						<category xml:id="MT-Arch">
+							<catDesc>
+								<choice>
+									<abbr>MT Arch</abbr>
+									<expan>Middle Temple Archives</expan>
+								</choice>
+							</catDesc>
+						</category>
+						<category xml:id="MT-Lib">
+							<catDesc>
+								<choice>
+									<abbr>MT Lib</abbr>
+									<expan>Middle Temple Library</expan>
+								</choice>
+							</catDesc>
+						</category>
+						<category xml:id="parliamentary-archives">
+							<catDesc>Parliamentary Archives</catDesc>
+						</category>
+						<category xml:id="rousham-house">
+							<catDesc>Rousham House</catDesc>
+						</category>
+						<category xml:id="st-bartholomews-hospital-archives">
+							<catDesc>St Bartholomew's Hospital Archives</catDesc>
+						</category>
+						<category xml:id="st-james-palace">
+							<catDesc>St James Palace</catDesc>
+						</category>
+						<category xml:id="st-johns-college-library">
+							<catDesc>St John's College Library (Cambridge)</catDesc>
+						</category>
+						<category xml:id="stationers-hall">
+							<catDesc>Stationers' Hall</catDesc>
+						</category>
+						<category xml:id="TNA">
+							<catDesc>
+								<choice>
+									<abbr>TNA:PRO</abbr>
+									<expan>The National Archives:Public Records Office</expan>
+								</choice>
+							</catDesc>
+						</category>
+						<category xml:id="trinity-college-library">
+							<catDesc>Trinity College Library (Cambridge)</catDesc>
+						</category>
+						<category xml:id="york-city-archives">
+							<catDesc>York City Archives</catDesc>
+						</category>
+					</category>
+					<category xml:id="short_title_catalogues">
+						<catDesc>Short-Title Catalogues</catDesc>
+						<category xml:id="STC">
+							<catDesc>
+								<choice>
+									<abbr>STC</abbr>
+									<expan>Pollard and Redgrave (eds), Short-Title Catalogue</expan>
+								</choice>
+							</catDesc>
+						</category>
+						<category xml:id="Wing">
+							<catDesc>
+								<choice>
+									<abbr>Wing</abbr>
+									<expan>Wing, Short-Title</expan>
+								</choice>
+							</catDesc>
+						</category>
+					</category>
+				</taxonomy>
+			</classDecl>
+		</encodingDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="en">English</language>
+				<language ident="la">Latin</language>
+			</langUsage>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<pb n="264"/>
+
+
+			<div>
+				<p>
+					<lb/>1500-1 <lb/>Court of Common Councill, [ournal 10 TMA: COL/CC/o1/o1/o10
+					<lb/>f 235 (70ctob<ex>er</ex>) <lb/>In isto Co<ex>mun</ex>i Consillio
+						lect<ex>a</ex> fuit l<ex>itte</ex>ra d<ex>omi</ex>ni Regis miss<ex>a</ex>
+					Maiori &amp; <lb/>ald<ex>e</ex>r<ex>mann</ex>is &amp;c. de aduent<ex>u</ex> [Ma]
+					katerine ffilie Regis &amp; Regine hispan<ex>ie</ex> &amp;c. </p>
+			</div>
+			<div>
+				<p>
+					<lb/>Court of Aldermen, Repertory I TMA: COL/CA/o1/o1/oo <lb/>f 8727uly) <lb/>lt
+					is agreed that v marc<ex>es</ex> shalbee providid for a gyft to be gyvyn to lady
+						<lb/>katt<ex>er</ex>yn kyng<ex>es</ex> doughter of spayn/ and in case the
+						charg<ex>es</ex> of the cundite <lb/>sette and made in powlis [charge]
+					chyrcheyarde be layed to the cost<ex>es</ex> and <lb/>charge of this cite that
+					than their<ex>e</ex> shalbe abatid and deductid of the said </p>
+				<!-- marginal note -->
+				<p>
+					<lb/>Regard<ex>a</ex> v <lb/>m<ex>a</ex>rc<ex>arur</ex>
+					<lb/>don<ex>a</ex>f<ex>arum</ex>
+					<lb/>d<ex>omi</ex>ne katt<ex>er</ex>ine <lb/>filie R<ex>eais</ex>
+					<lb/>Hispan<ex>ie</ex>
+				</p>
+				<!-- footnotes -->
+				<p>
+					<lb/>4-5/ lt<ex>e</ex>m ... iiij d.: for the A<ex>u</ex>g<ex>us</ex>t feast time
+					<lb/>30 aduent<ex>u</ex> ... hispan<ex>ies</ex> enty of Tatherine o] <lb/>14
+						Mynstrell<ex>es</ex> f<ex>or</ex> the fe<ex>as</ex>t time <lb/>Aragon 12
+					Noyember 1501 </p>
+
+				<pb n="265"/>
+				<p>
+					<lb/>su<ex>m</ex>me as much mony as the Cost<ex>es</ex> of the said cundite
+					shall drawe and <lb/>amounte to <lb/>... <lb/>f 89v 17ctob<ex>er</ex>) <lb/>lt
+					is agreed that eu<ex>er</ex>y ald<ex>er</ex>man shall bring in [intv] to the
+						co<ex>ur</ex>t the Rest <lb/>of the mony Assessed in their ward<ex>es</ex>
+					for the Receyvyng of the lady Tatt<ex>er</ex>ine <lb/>so that they haue the said
+					Rest of all suche so<ex>m</ex>mes behynde vnpaide [at the <lb/>next
+						co<ex>ur</ex>t (...)] by the xiiijth day of this present monyth of occtober
+					vppon <lb/>parell that shall fall <lb/>... </p>
+			</div>
+
+			<div>
+				<p>
+					<lb/>Breuers Wardens Accounts MTMA: CLC/L/BE/B/00/MS054420o <lb/>p [14] of
+					1500-I account (Rend<ex>er</ex>ed 4 March 150/2) Custoom<ex>ar</ex>y
+					<lb/>expenses <lb/>iiij d. <lb/>lt<ex>e</ex>m paid vnto Seynt Nicolas Clerk for
+						our<ex>e</ex> Hall &amp;c. </p>
+			</div>
+			<div>
+				<p>
+					<lb/>Carpenters Wardens Accounts MTMA: CLC/L/CC/B/002/MS04326/oo <lb/>f 88 15
+					Augst 15 Aug<ex>us</ex>t) (Fe<ex>as</ex>t day costs <lb/>p<ex>ai</ex>d to be
+						menstrell<ex>es</ex> &amp; syng<ex>er</ex>s <lb/>iiij s. iiij d. </p>
+			</div>
+
+			<div>
+				<p>
+					<lb/>Drapers Wardens Accounts h: MS WA2 <lb/>f 70 (c 15 Aug<ex>us</ex>t c 15
+						Ag<ex>us</ex>t) Payments <lb/>lt<ex>e</ex>m we ask allowaunce for the
+						Mayr<ex>es</ex> Mees. Russhes. <lb/>vj li. xiiij s. iiij d. <lb/>players and
+						Mynstrell<ex>es</ex>
+				</p>
+
+
+				<p>
+					<lb/>f 72 (c 15 August 1501-c 15 Ag<ex>us</ex>t 1502) Payments
+					<lb/>lt<ex>e</ex>m for oyling and paynting reed of iiijor Ban<ex>er</ex> stavys
+					<lb/>iiij s. <lb/>lt<ex>e</ex>m for that one p<ex>ar</ex>te of the
+						charg<ex>es</ex> of the m<ex>ar</ex>shall &amp; </p>
+
+
+				<!-- footnotes -->
+				<p>
+					<lb/>8 Assessed: <ex>se</ex>c<ex>ona</ex> ss corrected <lb/>24
+						menstrell<ex>es</ex> &amp; syng<ex>er</ex>s, for the
+					A<ex>u</ex>g<ex>us</ex>t feast time <lb/>30-1/ lt<ex>e</ex>m ... iiij d.:
+						f<ex>or</ex> t<ex>he</ex> A<ex>u</ex>g<ex>us</ex>t feast time </p>
+
+
+				<pb n="266"/>
+				<p>
+					<lb/>xx Trumpeto<ex>ures</ex> for Sir laurens Aylm<ex>er</ex> and henry heed
+						<lb/>Shireff<ex>es</ex> to westmynster and home <lb/>liiij s. iiij d.
+						<lb/>lt<ex>e</ex>m for drinking money to the said Trumpeto<ex>ures</ex> for
+						<lb/>ou<ex>r</ex> p<ex>ar</ex>te <lb/>ij s. <lb/>lt<ex>e</ex>m for vj
+					dossons of croyle poynt<ex>es</ex> for the Bannerett<ex>es</ex>
+					<lb/>vj d. <lb/>lt<ex>e</ex>m for Bargehire to westm<ex>ister</ex>
+						w<ex>i</ex>t<ex>h</ex> M<ex>r</ex> Aylmer Shiref <lb/>xiiij s. iiij d.
+						<lb/>lt<ex>e</ex>m for drinking money to the Bargemen <lb/>xij d.
+						<lb/>lt<ex>e</ex>m for our<ex>e</ex> p<ex>ar</ex>te of xxvij white
+						hatt<ex>es</ex> for trumpeto<ex>ures</ex>
+					<lb/>&amp; wayt<ex>es</ex> that went w<ex>i</ex>t<ex>h</ex> M<ex>r</ex> Aylmer
+					&amp; M<ex>r</ex> heed Shireff<ex>es</ex>
+					<lb/>to westm<ex>enster</ex> aft<ex>er</ex> xij s. a dosson Am<ex>oun</ex>t
+						our<ex>e</ex> p<ex>ar</ex>te <lb/>xiiij s. vj d. 10 </p>
+			</div>
+
+			<div>
+				<p>
+					<lb/>Founders Wardens Accounts MTMA: CLC/L/E/B/001/MS16330/00 <lb/>p 30 20
+						Septemb<ex>e</ex>r 16 Septemb<ex>e</ex>r) Payments for o<ex>u</ex>r supper)
+						<lb/>lt<ex>e</ex>m the Mynstrell<ex>es</ex>
+					<lb/>xx d. </p>
+			</div>
+			<div>
+				<p><lb/>1500-2</p>
+				<p>
+					<lb/>Ironmongers Register MT: CLC/L/1B/B/001/MSi6088/0o <lb/>f 86 15 [uly 1501-5
+					[uly 1503) Payments <lb/>ltem payde for Thomas lonsone of Seynte Tateryns for
+					<lb/>The Barge To westmester w<ex>i</ex>t<ex>h</ex> the Scheryffys and
+						w<ex>i</ex>t<ex>h</ex>
+					<lb/>be Mayer <lb/>[xxxiiij s. viiij d. 25 <lb/>ltem payde Tho The Bargemen Att
+					the Schereffys fest <lb/>xij d. <lb/>ltem payde Tho the
+						Tru<ex>m</ex>mpett<ex>es</ex> for her Rewarde for be <lb/>ffeste <lb/>lvj s.
+					ij d. <lb/>ltem payde fore the whyttee hatt<ex>es</ex> for the
+						Tru<ex>m</ex>mpett<ex>es</ex>
+					<lb/>xiiij s. iiij d. </p>
+			</div>
+			<div>
+				<p>
+					<lb/>Skinners Receipts and Payments MTMA: CLC/L/SE/B/007/MS30727/oo <lb/>f 156
+					10 [une 1501-26 May 1502) Payments <lb/>lt<ex>e</ex>m paid for the hyre of iiij
+					Bargys to accompany w<ex>i</ex>t<ex>h</ex>
+					<lb/>xxxij s. <lb/>the Mayre and Shiref<ex>es</ex> att two tymes to Westmynster </p>
+				<!-- footnotes -->
+				<p>
+					<lb/>1/ Trumpeto<ex>ures</ex> for the sheriff present<ex>a</ex>tion <lb/>24
+					Scheryffys L<ex>aure</ex>nce Aylmer, draper, and Henry <lb/>September 1501
+					<lb/>Hede, ironmonger <lb/>25] Mayer: ohn Sh<ex>aa</ex>, goldsmith <lb/>1-2/ Sir
+					... Shireff<ex>es</ex>: L<ex>aure</ex>nce Almer, drapper, and <lb/>36] two
+					tymes, t<ex>he</ex> sh<ex>er</ex>iff presentation September <lb/>Henry Hede,
+						ironmong<ex>er</ex>
+					<lb/>16] Mynstrell<ex>es</ex> for the feast time <lb/>150I and the mayors oath
+					taking ctober 1501 <lb/>245] w<ex>i</ex>th be ... Mayer: for the sheriff present
+					<lb/>tion September 150I and the mayors oath taking <lb/>October 150 </p>
+
+				<pb n="267"/>
+
+				<p>
+					<lb/>lt<ex>e</ex>m rewardyd the Bargemen <lb/>iiij s. <lb/>lt<ex>e</ex>m
+					rewardyd the Mynstrell att bothe tymes <lb/>xij d. </p>
+			</div>
+
+			<div>
+				<p>
+					<lb/>1501-2 <lb/>Court of Common Councill, [ournal 10 MA: COL/CC/o1/o1/o1
+					<lb/>ff 238-8 <lb/>lsto die const<ex>itu</ex>t<ex>ur</ex> p<ex>er</ex>
+						M<ex>aiorem</ex> &amp; Ald<ex>e</ex>r<ex>mannos</ex> q<ex>uo</ex>d die
+						Aduent<ex>us</ex> d<ex>omi</ex>ne <lb/>katt<ex>er</ex>ine fillie
+						Reg<ex>is</ex> lspanie in Ci<ex>uita</ex>te<ex>m</ex> Maior ett
+						Ald<ex>e</ex>r<ex>mann</ex>i temp<ex>or</ex>e <lb/>p<ex>er</ex>transitus
+						eiusd<ex>em</ex> d<ex>omi</ex>ne sedebunt Equestres in locis suis
+						consuet<ex>is</ex> &amp; <lb/>convenien<ex>tihus</ex> in le Chepe ex
+					australi p<ex>ar</ex>te Et q<ex>uo</ex>d p<ex>re</ex> eis ponat<ex>ur</ex>
+						vn<ex>a</ex>
+					<lb/>Raile asserat<ex>a</ex> voc<ex>a</ex>t<ex>a</ex> boredid in
+						defencion<ex>e</ex> Equor<ex>um</ex>
+					<lb/>lt<ex>em</ex> ad eand<ex>em</ex> Cur<ex>iam</ex> conc<ex>essum</ex> est
+						q<ex>uo</ex>d quil<ex>ie</ex>t Ald<ex>e</ex>r<ex>mann</ex>us h<ex>ah</ex>eat
+					tune <lb/>eod<ex>em</ex> die Bedellu<ex>m</ex> suu<ex>m</ex> portan<ex>tem</ex>
+						Claua<ex>m</ex> s<ex>uam</ex> &amp; t<ex>an</ex>t<ex>u</ex>m vn<ex>um</ex>
+						al<ex>ium</ex>
+					<lb/>s<ex>er</ex>uien<ex>tem</ex> attend<ex>en</ex>t<ex>er</ex> sup<ex>er</ex>
+					eum <lb/>Et q<ex>uo</ex>d Gardiani pont<ex>is</ex> london<ex>ij</ex> erga
+						aduentu<ex>m</ex> p<ex>re</ex>dict<ex>um</ex> Gravellabunt <lb/>pontem
+						london<ex>ij</ex> ett [le] pistenarij le ffisshe strete ac
+						Cam<ex>er</ex>ar<ex>ius</ex> london<ex>ij</ex>
+					<lb/>Stratam de Chepe a [le] magno Conductu ad p<ex>ar</ex>uu<ex>m</ex>
+						Conductu<ex>m</ex>
+					<lb/>Et q<ex>uo</ex>d d<ex>i</ex>cus Cam<ex>er</ex>ar<ex>ius</ex>
+					p<ex>ro</ex>uidebit p<ex>ro</ex> vn<ex>o</ex> Garnyssh de vas<ex>is</ex>
+						argen<ex>teis</ex> vell <lb/>magn<ex>is</ex> oll<ex>is</ex>
+						argen<ex>teis</ex> vel fflagons dand<ex>is</ex> p<ex>re</ex>d<ex>i</ex>ce
+						d<ex>omi</ex>ne &amp;c. <lb/>Et q<ex>uo</ex>d fiat cuil<ex>ihe</ex>t
+						Ald<ex>e</ex>r<ex>mann</ex>o vnu<ex>m</ex> p<ex>re</ex>ceptu<ex>m</ex> in
+					hec v<ex>er</ex>ba We charge <lb/>and co<ex>m</ex>maund you that on Monday next
+						co<ex>m</ex>myng <lb/>ff 250v-(12 April) <lb/>To the Right honorable lord
+					and worshipfull Sou<ex>er</ex>aignes the Maire and <lb/>ald<ex>er</ex>men of bis
+					noble Cittee of london <lb/>Shew<ex>i</ex>t<ex>h</ex> full humbly vnto
+						yo<ex>ur</ex> good lordship [yo<ex>ur</ex>] and Mast<ex>er</ex>shippes
+						yo<ex>u</ex>r <lb/>daily orato<ex>ur</ex>s and
+						s<ex>er</ex>ua<ex>u</ex>nt<ex>es</ex> lohn Marchall lohn Broun
+						will<ex>i</ex>am Pallyng <lb/>Nicholas Ryppes And lohn Nayler waytes of the
+					forsaid noble Cittee That <lb/>where of tyme out of mynde it hath been wont and
+					accustumed in the <lb/>same noble Cittee, that waytes by reason of their
+						s<ex>er</ex>uice shuld be reputed <lb/>and taken as ffremen of the said
+					Cittee lt is soo Right honorable lord and <lb/>worshipfull sou<ex>er</ex>aignes
+					that the felasshippe of Mynsterelx fremen of the <lb/>same Cittee wull not
+					suffre yo<ex>u</ex>r said orato<ex>ur</ex>s to occupie and bye and selle </p>
+
+				<!-- marginal notes -->
+
+				<p>
+					<lb/>p<ex>re</ex>ceptu<ex>m</ex>
+					<lb/>Ald<ex>e</ex>r<ex>mann</ex>is </p>
+
+
+				<!-- footnotes -->
+
+				<p>
+					<lb/>9/ lsto die: 4 N<ex>o</ex>₻<ex>e</ex>mb<ex>er</ex>
+					<lb/>10/ die ... Ci<ex>ui</ex>t<ex>a</ex>te entry of Tatherine of Aragon 12
+						Noyemb<ex>e</ex>r 150 <lb/>23/ Monday ... co<ex>m</ex>myng:
+						M<ex>o</ex>nd<ex>a</ex>y, 8 Noemb<ex>er</ex>
+					<lb/>1m] Minstrell<ex>es</ex>, M<ex>or</ex>d obsc<ex>u</ex>red by te<ex>a</ex>r
+					in leaf and modern rep<ex>air</ex>
+				</p>
+
+				<pb n="268"/>
+				<p>
+					<lb/>w<ex>i</ex>t<ex>h</ex>in the said Cittee onlesse they be admytted fremen of
+					the said Cittee in <lb/>the Craft of Mynstrelx And yo<ex>ur</ex> said
+						orato<ex>ur</ex>s be not [able] of Abylite and <lb/>power in | goodes to bye
+					their fredom Soo that if yo<ex>ur</ex> said lordship and
+					<lb/>Mast<ex>er</ex>shippes be not tend<ex>er</ex>ly shewed vnto theym they must
+						ned<ex>es</ex> p<ex>ro</ex>vyde <lb/>for their lyvyng<ex>es</ex> in other
+						plac<ex>es</ex> out of this noble Cittee lt may therfore plese
+						<lb/>yo<ex>ur</ex> good lordshippe and Mast<ex>er</ex>shippes of
+						yo<ex>u</ex>r blessed dissposicions the <lb/>p<ex>re</ex>misses by you
+						tend<ex>er</ex>ly considered to graunt and ordeign that yo<ex>ur</ex> said
+						<lb/>orato<ex>ur</ex>s may be admitted fremen of london in the Craft of
+						Mynstrell<ex>es</ex>
+					<lb/>w<ex>i</ex>t<ex>h</ex>out any charge to theym to be leyde for their fredom
+					And ou<ex>er</ex> that to <lb/>graunt and ordeign that the same yo<ex>ur</ex>
+						orato<ex>ur</ex>s may haue their sommer <lb/>Clothing like as it was
+						p<ex>ro</ex>mysed vnto theym att their<ex>e</ex> co<ex>m</ex>myng to london
+					<lb/>And yo<ex>ur</ex> said orato<ex>ur</ex>s all the dayes of theire lyves
+					shalbe yo<ex>ur</ex> true bedemen <lb/>And sp<ex>e</ex>cially pray to god for
+					the p<ex>reser</ex>uac<ex>i</ex>on of yo<ex>ur</ex> good lordshippe &amp;
+						<lb/>mast<ex>er</ex>shippes and the Comonaltie of this Cittee long to indure
+					&amp;c. <lb/>Qua quid<ex>e</ex>m billa &amp;c. </p>
+			</div>
+			<div>
+				<p>
+					<lb/>Court of Aldermen, Repertory I MA: COL/CA/o1/o1/oo <lb/>f 97v 5 April)
+						<lb/>M<ex>emoran</ex>d<ex>um</ex> that the audito<ex>ur</ex>s of the
+						pageant<ex>es</ex> be warrnyd to be att the <lb/>Co<ex>ur</ex>te vppon
+					Thirsday <lb/>f 9v 12 April) <lb/>lt<ex>e</ex>m att the same co<ex>ur</ex>t The
+						mynstrell<ex>es</ex> bill was graunted for to be freme <lb/>And haue their
+						Som<ex>er</ex> lyu<ex>er</ex>ey <lb/>f 100 I May)
+						<lb/>M<ex>emoran</ex>d<ex>um</ex> that the Comyners wich hadde the ouersight
+					of makyng of <lb/>the pageant<ex>es</ex> be warrnyd to bee att this
+						co<ex>ur</ex>te a Thyrsday next co<ex>m</ex>myng/ <lb/>every of theym
+					seuerally to be chargid w<ex>i</ex>t<ex>h</ex> the sellyng of the stuff of the
+						<lb/>pageant<ex>es</ex> that they hadde Rule of </p>
+
+				<!-- footnotes -->
+
+				<p>
+					<lb/>35 Thyrsday ... co<ex>m</ex>myng, Th<ex>urs</ex>day, 5 May </p>
+
+				<pb n="269"/>
+
+				<!-- marginal notes -->
+				<p>
+					<lb/>vacat q<ex>uia</ex> p<ex>ost</ex>ea </p>
+				<p>
+					<lb/>No<ex>t</ex>a </p>
+
+
+				<p>
+					<lb/>f 100 13 Septemb<ex>er</ex>) <lb/>M<ex>emoran</ex>d<ex>um</ex> to speke
+						w<ex>i</ex>t<ex>h</ex> M<ex>r</ex> Martyn and M<ex>r</ex> Wood for
+						thaccom<ex>m</ex>pte of <lb/>the pageaunt<ex>es</ex>
+					<lb/>f 13725 0ctob<ex>er</ex>) </p>
+				<!-- marginal notes -->
+				<p>
+					<lb/>[At this co<ex>ur</ex>te it is agreed that M<ex>r</ex> Milbo<ex>u</ex>rne
+						chamb<ex>er</ex>len shall macke a lees <lb/>to willyam Strynger [ins] in
+					consideracion And [rew] for reco<ex>m</ex>pense and <lb/>reward of the
+						labo<ex>ur</ex> that the same willyam haith Susteynid and tayn aswell <lb/>a
+					boute the Rekynnyng of the Stuff that was occupied aboute the pageant<ex>es</ex>
+					<lb/>as a boute the Nwe woork<ex>es</ex> made att the gyldhall of] </p>
+
+				<p><lb/>Att this co<ex>ur</ex>te it is agreed that in consideracion and for
+						reco<ex>m</ex>pense and <lb/>rewarde [that] of the labo<ex>ur</ex>s and
+					dilligence that willyam Strynger haith <lb/>susteynyd and tane aswell a boute
+					the rekennyng<ex>es</ex> of the stuff and charg<ex>es</ex>
+					<lb/>don vppon the pageant<ex>es</ex> made a gaynst my lady p<ex>r</ex>inces
+					first enteryng in to <lb/>this cite as a boute the howses of offices nwe made
+					att the gyldhall/ [(.)] <lb/>willyam Milbo<ex>u</ex>rne chamb<ex>er</ex>len
+					shall macke to the saide willyam Strynger A <lb/>lees of the howse that he nowe
+					dwellyth yn wich howse willyam ffox Clerk <lb/>of the Maires co<ex>ur</ex>te
+					late occupied and helde [for] in the p<ex>ar</ex>isshe of sceynt <lb/>Michaell
+					in Bassynghawe for the space of xx yeres paiyng and yeldyng to the <lb/>chamber
+					for the same yerly/ v s./ duryng the saide t<ex>er</ex>me of xx yeres/ </p>
+			</div>
+
+			<div>
+				<p>
+					<lb/>Bridgemasters Annual Accounts and Rentalls <lb/>LMA: CLA/007/M/02/004
+					<lb/>f 22220 Septemb<ex>e</ex>r 20 September) Charge, standings on the Bridge)
+					<lb/>Standinges on the bridge of dyu<ex>er</ex>s people standing there and in a
+					vacant 30 <lb/>tenn<ex>emen</ex>t att the standard in Chepe att the
+					co<ex>m</ex>myng in of the Prynces liiij s. <lb/>iiij d....</p>
+
+				<p>
+					<lb/>f 224v N<ex>e</ex>c<ex>es</ex>s<ex>ar</ex>y expenses <lb/>...to the same
+					william for takyng downe of the pagent of london bridge att <lb/>taxe. x s. And
+					for expencis vpon the Masons and Carpenters the day of the </p>
+
+				<!-- footnotes -->
+				<p>
+					<lb/>14-23/ At ... yeres: also in [o<ex>u</ex>rnal 10 f267 <lb/>22 23. xx:
+					Corrected ou<ex>er</ex> x <lb/>37/ the same william: Willi<ex>am</ex> Snouden,
+						p<ex>a</ex>id earlier for bot rep<ex>ai</ex>
+					<lb/>38] x s.. underlined in MS</p>
+				<p>
+					<pb n="270"/>
+					<lb/>entre of the lady Princes for their watche and delygente attendaunce geven
+					<lb/>by theym vnto the same. xj s. iiij d....</p>
+			</div>
+			<div>
+
+				<div>
+					<p>
+						<lb/>Brewers Wardens Accounts MTMA: CLC/L/BE/B/00/MS0544200 <lb/>p [15] of
+						1501-2 account (Rend<ex>er</ex>ed 21 Feb<ex>ruar</ex>y 1502/3)
+							Custo<ex>mar</ex>y <lb/>expenses </p>
+					<p>
+						<lb/>lt<ex>e</ex>m paid vnto Seynt Nicolas clerk<ex>es</ex>
+							[Clerk<ex>es</ex>] oppon <lb/>Seynt Nicolas Even <lb/>iiij d.</p>
+
+					<p>
+						<lb/>p [17] of 1501-2 account Costs of <ex>ari</ex>o<ex>us</ex>
+							dinn<ex>er</ex>s) <lb/>ffirst cost<ex>es</ex> made of A den<ex>er</ex>
+						vnto the hole Company <lb/>In the lyu<ex>er</ex>ey beyng p<ex>re</ex>sent
+						with [the] Sir lohn Shaa <lb/>knyght then Maire In takyng his othe At
+							westm<ex>iaster</ex>
+						<lb/>the Barons of the kyng<ex>es</ex> escheker then kepyng ther
+							<lb/>co<ex>ur</ex>t att that tym In the kyng<ex>es</ex> Stondyng then
+						att that <lb/>tym ordendyned and made for the lust<ex>es</ex> att the
+						Mariage <lb/>of p<ex>ri</ex>nce Arthur and Tatt<ex>er</ex>yn secund
+							dought<ex>er</ex> of kyng <lb/>of Spayn <lb/>liiij s. vj d.</p>
+
+				</div>
+				<div>
+					<p>
+						<lb/>Carpenters Wardens Accounts MTMA: CLC/LCC/B/002/MS04326100 <lb/>f 91(15
+						August 15 August) Candlem<ex>as</ex> q<ex>uar</ex>ter day costs </p>
+					<p>
+						<lb/>lt<ex>e</ex>m p<ex>ai</ex>d to the players <lb/>ij s.</p>
+
+					<p>
+						<lb/>f 93(Feast day costs <lb/>lt<ex>e</ex>m p<ex>ai</ex>d to the waytys
+						<lb/>xij d. <lb/>lt<ex>e</ex>m p<ex>ai</ex>d to the
+							mynst<ex>e</ex>rell<ex>es</ex>
+						<lb/>iiij s. iiij d. <lb/>lt<ex>e</ex>m p<ex>ai</ex>d to ye taborar
+						<lb/>iiij d. </p>
+
+					<!-- footnotes -->
+
+					<p>
+						<lb/>2] xj s. iiij d.: <ex>u</ex>nd<ex>e</ex>rlined in S <lb/>15-16 Sir ...
+						Maire: [ohn Sh<ex>aa</ex>, goldsmith <lb/>16 takyng his othe t<ex>he</ex>
+						<ex>a</ex>y<ex>or</ex>s o<ex>a</ex>th taking ctober 150 <lb/>1021/ Mariage
+						... Spayn: 14 Noembe <lb/>3233: 34 waytys, mynst<ex>e</ex>rell<ex>es</ex>,
+						taborar: f<ex>or</ex> th<ex>e</ex> A<ex>u</ex>g<ex>us</ex>t feast time </p>
+				</div>
+				<pb n="271"/>
+				<div>
+					<p>
+						<lb/>Drapers' Wardens Accounts h: MS WA2 <lb/>f 72(c 15 Augst c 15
+							Aug<ex>us</ex>t) Payments <lb/>lt<ex>e</ex>m We ask allowaunce for the
+						Maires Mees <lb/>Russhes players &amp; Mynstrell<ex>es</ex>
+						<lb/>vj li. xiiij s. iiij d. <lb/>lt<ex>e</ex>m for Bargehire to Mortlacke
+						att the king<ex>es</ex>
+						<lb/>co<ex>m</ex>maundement the xxviiijti day of Nouembr<ex>e</ex>
+						<lb/>xxvj s. <lb/>lt<ex>e</ex>m for a Taberett in the said Barge <lb/>xij d.
+							<lb/>lt<ex>e</ex>m for vytailes in our<ex>e</ex> Barge to Mortelarke
+							w<ex>i</ex>t<ex>h</ex>
+						<lb/>the king <lb/>vj s. v d. </p>
+				</div>
+
+				<div>
+					<p>
+						<lb/>Founders Wardens Accounts MT: CLC/L/E/B/001/MS16330/00 <lb/>p 46 16
+							Septemb<ex>e</ex>r 16 September) Payments first att supper)
+							<lb/>lt<ex>e</ex>m the Mynstrell<ex>es</ex>
+						<lb/>xx d. </p>
+				</div>
+				<div>
+					<p>
+						<lb/>Ironmongers Register MT: CLC/L/1B/B/001/MSi6088/0o <lb/>f 87v 15 [uly
+						1501-5 [uly 1503) Payments <lb/>Harneste Men To the Scheryffe <lb/>ltem
+						payde for lviiij harneste men att iiij s. iiij d. <lb/>a Man
+							S<ex>u</ex>m<ex>m</ex>a <lb/>xli. xiiij s. iiij d. <lb/>Ther of
+						Receyvyde of be Co<ex>m</ex>panye as yt apperythe <lb/>viiij li. xxvj s.
+						viiij d. <lb/>by a bylle liiij me <lb/>So payde owtte of the boxe for v men
+							S<ex>u</ex>m<ex>m</ex>a <lb/>xxvj s. viiij d. 30 <lb/>ltem payde for a
+						pownde of talowe Candylle <lb/>iiij d. <lb/>ltem payde for Brede for bothe
+						the ny3t<ex>es</ex>
+						<lb/>ltem payde for ij fyrkyns of j d. ob. ale <lb/>xxviiij d. <lb/>ltem
+						payde for a tapperett for bothe the nyght<ex>es</ex>
+						<lb/>ij s. <lb/>ltem payde for the Crest for the chylde <lb/>vj d. 3
+							<lb/>Sum<ex>m</ex>a xxj s. j d. </p>
+
+
+					<!-- footnotes -->
+
+					<p>
+						<lb/>4-5/ lt<ex>e</ex>m ... iiij d.: for the A<ex>u</ex>g<ex>us</ex>t feast
+						time <lb/>24 Scheryffe: Henry Hede, ironmong<ex>er</ex>
+						<lb/>7/ Mortlacke, M<ex>or</ex>tlake, S<ex>urre</ex>y <lb/>2 bothe the
+							nygt<ex>es</ex>, the Midsummer Watch nights <lb/>18/
+							Mynstrell<ex>es</ex> for the fe<ex>as</ex>t time <lb/>23 and 28 [une
+					</p>
+				</div>
+
+				<pb n="272"/>
+				<div>
+					<p>
+						<lb/>Pewterers Audit Book MTMA: CLC/L/E/B/002/MSo7o86/oo <lb/>f 143v 20
+							Septemb<ex>e</ex>r 20 Septemb<ex>e</ex>r) Payments <lb/>lt<ex>e</ex>m
+							p<ex>ai</ex>d to the Carpent<ex>er</ex> for the Raile of our standyng
+						<lb/>next to the pagent in Cornehill ayenst the Comyng of the <lb/>princes
+						from Spayne <lb/>xij s. viiij d. <lb/>lt<ex>e</ex>m pavyng after the Railis
+						there taken vp <lb/>xxviiij d. </p>
+				</div>
+
+
+				<div>
+					<!-- marginal notes -->
+					<p>
+						<lb/>No<ex>t</ex>a for <lb/>makyng of <lb/>ffires and ob<ex>e</ex>
+						<lb/>thing<ex>e</ex>
+					</p>
+
+					<p>
+						<lb/>15023 <lb/>Court of Aldermen, Repertory I TMA: CL/CA/o1/o/0o <lb/>f 130
+						27March) <lb/>lt is agreed that att the sole<ex>m</ex>pnisacion of the leage
+						made betwene the <lb/>kyng<ex>es</ex> grace and the kyng of Romaynes And
+						makyng of the kyng<ex>es</ex> oithe in is <lb/>conformacion of the same
+							their<ex>e</ex> shalbe ffires made of fagott<ex>es</ex> in ix places of
+						<lb/>this Cite that is to Saye on att ledenhall/ a nother att the stander in
+						Cornehull/ <lb/>[a] iiij in chepe (at the greate cundite standard And litill
+						Cundite) and on <lb/>in ffletestrete And att every place where as fire
+						shalbe ther<ex>e</ex> shalbe a hoggishede <lb/>of wyne/ And iij
+							s<ex>er</ex>eaunt<ex>es</ex> and ij yomen of the Shryves for kepyng of
+						the <lb/>peace and orderyng of the people <lb/>lt<ex>e</ex>m it is agreed
+						that through oute Cornehull And Chepe side, on boith sides <lb/>of the
+						streate their<ex>e</ex> shalbee hanggid oute of wyndowes Cressett<ex>es</ex>
+							w<ex>i</ex>t<ex>h</ex> light <lb/>to beegynne att vj of the Clock att
+						nygtht and to byrne the space of A howre/ <lb/>And the [fr] fyres to beegyn
+						att iiij of the clock att afternone <lb/>lt<ex>e</ex>m it is throught that
+						in consideracion of the holy tyme of lent and also of <lb/>the late
+							dep<ex>ar</ex>tyng from this lyfe of the most noble prynces [que]
+						Elizabeth <lb/>late queene to o<ex>ur</ex> sou<ex>er</ex>en lorde the kyng
+						that all Mynstralsie shalbe sparyd <lb/>att this sole<ex>m</ex>pnite &amp;c.
+					</p>
+				</div>
+				<div>
+					<p>
+						<lb/>Bridgemasters Annual Accounts and Rentalls <lb/>L: CLA/007/EM/02/004
+						<lb/>f 227v 20 Septemb<ex>er</ex> 1501-20 Septemb<ex>er</ex> 1502) (uing
+						<lb/>Wpon Cristopher Eliot and Edward ffenkill as the <lb/>residewe of
+						CCCxix li. xxv s. ij d. soo declared in the <lb/>fote of the last accompte.
+						<lb/>Cxxij li. viiij s. v d. </p>
+
+					<!-- footnotes -->
+					<p>
+						<lb/>18/ And: p<ex>ar</ex>enth<ex>es</ex>is added in error (.) <lb/>26
+						throught: f<ex>or</ex> thought <lb/>27/ Elizabeth: Eliz<ex>ahe</ex>th of
+						Tor, queen to Henry vir <lb/>35/ Cristopher Eliot and Edward ffenkill:
+							Bridg<ex>e</ex>
+						<ex>a</ex>rdens 14001500 </p>
+
+					<pb n="273"/>
+					<p>
+						<lb/>The whiche Cxxij li. viiij s. v d. been allowed to the said Cristopher
+						and <lb/>Edward the xixth day of Septembr<ex>e</ex> the xixth yere of king
+						Henry the vijth, by <lb/>the Maire and Aldermen as in money expendyd and
+						paid for the new making <lb/>of a pagente sett vpon london bridge in thentre
+						of the lady princes of Spayne <lb/>And as of record in the Courte of the
+						said Maire and Aldermen plainely doth <lb/>appere &amp; sic
+							s<ex>u</ex>m<ex>m</ex>a illa </p>
+				</div>
+
+				<div>
+					<p>
+						<lb/>Brewers Wardens Accounts MTM: CLC/L/BE/B/00/MS05442/00 <lb/>p [11] of
+						1502-3 account (Rend<ex>er</ex>ed 28 [une 1504) Ext<ex>e</ex>rnal expenses
+							<lb/>lt<ex>e</ex>m paid In cost<ex>es</ex> of xviiijth Men of arme vpon
+							Middsom<ex>er</ex>
+						<lb/>and saynt pet<ex>er</ex> Even to attend vpon Mr Nic<ex>holas</ex> Nyne
+						<lb/>lx s. <lb/>then beyng sheriff <lb/>And oppon [M<ex>r</ex> With]
+							M<ex>r</ex> Bartholomew Rede Mayre y<ex>a</ex>t tym <lb/>Sex Men of
+						armez oppon Middsom<ex>er</ex> even and saynt pet<ex>er</ex> even
+						<lb/>xviiij s. </p>
+				</div>
+
+
+
+				<!-- footnotes -->
+				<div>
+					<p>
+						<lb/>1/ Cxxij li. ... d.. <ex>u</ex>nd<ex>e</ex>rlined in S <lb/>4 thentre
+						... Spayne <ex>en</ex>try of K<ex>a</ex>t<ex>e</ex>rine of Ar<ex>a</ex>gon
+						<lb/>12 Noyember 1501 </p>
+				</div>
+			</div>
+		</body>
+	</text>
+</TEI>
