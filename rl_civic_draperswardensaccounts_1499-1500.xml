@@ -501,14 +501,14 @@
 	                     </choice>
 	                  </catDesc>
 	               </category>
-	            	<category xml:id="CH">
-	            		<catDesc>
-	            			<choice>
-	            				<abbr>CH</abbr>
-	            				<expan>Clothworkers' Hall</expan>
-	            			</choice>
-	            		</catDesc>
-	            	</category>
+	               <category xml:id="CH">
+	                  <catDesc>
+	                     <choice>
+	                        <abbr>CH</abbr>
+	                        <expan>Clothworkers' Hall</expan>
+	                     </choice>
+	                  </catDesc>
+	               </category>
 	               <category xml:id="CUL">
 	                  <catDesc>
 	                     <choice>
@@ -525,21 +525,21 @@
 	               </category>
 	               <category xml:id="DH">
 	                  <catDesc>
-	                  	<choice>
-	                  		<abbr>DH</abbr>
-	                  		<expan>Drapers' Hall</expan>
-	                  	</choice>	                  	
-	                  	</catDesc>
+	                     <choice>
+	                        <abbr>DH</abbr>
+	                        <expan>Drapers' Hall</expan>
+	                     </choice>	                  	
+	                  </catDesc>
 	               </category>
 	               <category xml:id="folger-shakespeare-library">
 	                  <catDesc>Folger Shakespeare Library</catDesc>
 	               </category>
 	               <category xml:id="GH">
 	                  <catDesc>
-	                  	<choice>
-	                  		<abbr>GH</abbr>
-	                  		<expan>Goldsmiths' Hall</expan>
-	                  	</choice>
+	                     <choice>
+	                        <abbr>GH</abbr>
+	                        <expan>Goldsmiths' Hall</expan>
+	                     </choice>
 	                  </catDesc>
 	               </category>
 	               <category xml:id="gonville-caius-library">
@@ -697,41 +697,33 @@
 	      </langUsage>
 	   </profileDesc>
    </teiHeader>
-  <text source="#LMA">
-      <body>
-         <div type="head">
-         	<head><title>Bakers' Audit Book</title></head>
-         </div>
-         <div type="record">
-         	<head><supplied>f 32v <date from-iso="1499" to-iso="1501">(1499–1501)</date> (Payments)</supplied></head>
-         	<pb type="folio" n="32v"/>
-         	<gap reason="omitted"/>
-         	<table>
-         		<row>
-         			<cell>It<ex>e</ex>m for the takyng vp of the pament where yo<ex>ur</ex>
-         				standding was the tyme the princes came oute of spayne in to london.
-         				vj d. It<ex>e</ex>m p<ex>ai</ex>d to tho<ex>m</ex>as A wode
-         				Carpent<ex>er</ex>. for xv. yearrd of lengithe Closid be
-         				fo<ex>ur</ex> &amp; be hynd be Cavse of pres of the peopill
-         				.xij. s. S<ex>u</ex>mma</cell>
-         			<cell>xij. s. vj d.</cell>
-         		</row>
-         		<row>
-         			<cell>It<ex>e</ex>m for the pavyng &amp; dreshing of the same pament
-         				Ageynne</cell>
-         			<cell>iij. s. iiij d.</cell>
-         		</row>
-         	</table>         			
-         		<gap reason="omitted"/>
-         	</div>
+    <text type="record">
+        <body>
+            <div><head><title>Drapers' Wardens' Accounts, <date from-iso="1499" to-iso="1500">1499–1500</date></title>
+            </head></div>
+            <div type="transcription">
+                <div xml:lang="en">
+                    <head><supplied>f 69 <date from-iso="1499-08-15" to-iso="1500-08-15">(c 15 August–c 15 August)</date> (Payments)
+                    </supplied></head>
+                    <pb n="69" type="folio"/>
+                    <gap reason="omitted"/>   
+            <table>
+            	<row><cell>It<ex>e</ex>m for the Mayr<ex>es</ex> Mees Mynstrell<ex>es</ex> players and
+            		Rishes</cell><cell>vj li. xiij s. iiij d.<note type="foot">It<ex>e</ex>m ... iiij d.: <hi rend="superscript">for the August feast time</hi></note></cell></row>
+            	</table>
+            <gap reason="omitted"/>
+                	<table><row><cell>It<ex>e</ex>m for a xv<hi rend="superscript">th</hi> and di. ayens the co<ex>m</ex>myng of the
+                		king<ex>es</ex> doughter of Spayn for this place</cell><cell>iij s.</cell></row></table>
+                	<gap reason="omitted"/>
+        </div>
+            </div>
+        	<div type="event">
+                <head>Event note:</head>
+                <p>This record refers to the royal entry of Katherine of Aragon on 12 November 1501.</p>
+            </div>
+        
+</body>
+</text>    
 
-         <!-- include the following only if there is an endnote for the record -->
-         <div type="event">
-            <head>Event note:</head>
-            <p>This record refers to the royal entry of Katherine of Aragon on 12 November 1501</p>
-         </div>
-      	
-      	
-      </body>
-  </text>
 </TEI>
+

@@ -501,14 +501,14 @@
 	                     </choice>
 	                  </catDesc>
 	               </category>
-	            	<category xml:id="CH">
-	            		<catDesc>
-	            			<choice>
-	            				<abbr>CH</abbr>
-	            				<expan>Clothworkers' Hall</expan>
-	            			</choice>
-	            		</catDesc>
-	            	</category>
+	               <category xml:id="CH">
+	                  <catDesc>
+	                     <choice>
+	                        <abbr>CH</abbr>
+	                        <expan>Clothworkers' Hall</expan>
+	                     </choice>
+	                  </catDesc>
+	               </category>
 	               <category xml:id="CUL">
 	                  <catDesc>
 	                     <choice>
@@ -525,21 +525,21 @@
 	               </category>
 	               <category xml:id="DH">
 	                  <catDesc>
-	                  	<choice>
-	                  		<abbr>DH</abbr>
-	                  		<expan>Drapers' Hall</expan>
-	                  	</choice>	                  	
-	                  	</catDesc>
+	                     <choice>
+	                        <abbr>DH</abbr>
+	                        <expan>Drapers' Hall</expan>
+	                     </choice>	                  	
+	                  </catDesc>
 	               </category>
 	               <category xml:id="folger-shakespeare-library">
 	                  <catDesc>Folger Shakespeare Library</catDesc>
 	               </category>
 	               <category xml:id="GH">
 	                  <catDesc>
-	                  	<choice>
-	                  		<abbr>GH</abbr>
-	                  		<expan>Goldsmiths' Hall</expan>
-	                  	</choice>
+	                     <choice>
+	                        <abbr>GH</abbr>
+	                        <expan>Goldsmiths' Hall</expan>
+	                     </choice>
 	                  </catDesc>
 	               </category>
 	               <category xml:id="gonville-caius-library">
@@ -697,41 +697,49 @@
 	      </langUsage>
 	   </profileDesc>
    </teiHeader>
-  <text source="#LMA">
-      <body>
-         <div type="head">
-         	<head><title>Bakers' Audit Book</title></head>
-         </div>
-         <div type="record">
-         	<head><supplied>f 32v <date from-iso="1499" to-iso="1501">(1499–1501)</date> (Payments)</supplied></head>
-         	<pb type="folio" n="32v"/>
-         	<gap reason="omitted"/>
-         	<table>
-         		<row>
-         			<cell>It<ex>e</ex>m for the takyng vp of the pament where yo<ex>ur</ex>
-         				standding was the tyme the princes came oute of spayne in to london.
-         				vj d. It<ex>e</ex>m p<ex>ai</ex>d to tho<ex>m</ex>as A wode
-         				Carpent<ex>er</ex>. for xv. yearrd of lengithe Closid be
-         				fo<ex>ur</ex> &amp; be hynd be Cavse of pres of the peopill
-         				.xij. s. S<ex>u</ex>mma</cell>
-         			<cell>xij. s. vj d.</cell>
-         		</row>
-         		<row>
-         			<cell>It<ex>e</ex>m for the pavyng &amp; dreshing of the same pament
-         				Ageynne</cell>
-         			<cell>iij. s. iiij d.</cell>
-         		</row>
-         	</table>         			
-         		<gap reason="omitted"/>
-         	</div>
+    <text type="record">
+        <body>
+        	<div><head><title>Bridgemasters’ Annual Accounts and Rentals, <date from-iso="1501" to-iso="1502">1501–2</date></title>
+            </head></div>
+            <div type="transcription">
+                <div xml:lang="en">
+                	<head><supplied>f 222 <date from-iso="1501-09-27" to-iso="1502-09-29">(29 September–29 September)</date> (Charge, standings on the Bridge)
+                    </supplied></head>
+                    <pb n="222" type="folio"/>
+                	<ab>Standinges on the bridge of dyu<ex>er</ex>s people standing there and in a vacant
+                		ten<ex>emen</ex>t at the standard in Chepe at the co<ex>m</ex>myng in of the Prynces liiij s.
+                		iij d.<gap reason="omitted"/></ab>
+            <gap reason="omitted"/>
+                </div>
+            	<div xml:lang="en">
+            	<head><supplied>f 224v <date when-iso="1501-10-17">(Necessary expenses)</date>
+            	</supplied></head>
+                	<pb n="224v" type="folio"/>
+                	<gap reason="omitted"/> 
+            		<ab><gap reason="omitted"/>to the same william<note type="foot">37/ the same william: <hi rend="italic">William Snowden, paid earlier for boat repair</hi></note> for takyng downe of the pagent of london bridge at
+            			taxe. x s.<note type="foot">x s.: <hi rend="italic">underlined in MS</hi></note> And for expencis vpon the Masons and Carpenters the day of the entre of the lady Princes for their watche and delygente attendaunce geven
+            			by theym vnto the same. xj s. iij d.<note type="italic">xj s. iij d.: <hi rend="italic">underlined in MS</hi></note><gap reason="omitted"/></ab>
+                	<gap reason="omitted"/> 
+                	
+        </div>
+            </div>
+        	<div type="endnote"><div><head>Endnote</head>
+        		<p>The first four words of the item from f 222 also serve as a heading. The record does not deal directly
+        			with pageantry, but has been included in this collection because it shows a way in which the Bridge
+        			made some money from royal entries – here, Katherine of Aragon’s (12 November 1501). The Bridge
+        			owned property at the Standard. A similar record is found (f 304v) for the coronation entry of Henry VIII
+        			in 1509; see The Records, p 288. The Bridge pageant in 1501 involved St Katherine and St Ursula;
+        			see <ref target="https://cwrc.ca/islandora/object/reed%3A6cd7b092-fca1-4b8b-a388-e6a9ce10164e#page/1/mode/1up">Appendix 1</ref> under 1501–2.</p>
+        			<p>On f 224v, immediately preceding the entry transcribed, William Snowden is paid for repairs. Harding
+        				and Wright, <title>London Bridge</title>, p 156, no 382, translate ‘taxe’ as task, but the <title>OEDO</title> provides a meaning that
+        			seems more useful here: the rate at which something is charged (s.v. ‘tax,’ n1, 1b).</p></div></div>
+        	<div type="event">
+                <head>Event note:</head>
+                <p>This record refers to the royal entry of Katherine of Aragon on 12 November 1501.</p>
+            </div>
+        
+</body>
+</text>    
 
-         <!-- include the following only if there is an endnote for the record -->
-         <div type="event">
-            <head>Event note:</head>
-            <p>This record refers to the royal entry of Katherine of Aragon on 12 November 1501</p>
-         </div>
-      	
-      	
-      </body>
-  </text>
 </TEI>
+

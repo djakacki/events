@@ -501,14 +501,14 @@
 	                     </choice>
 	                  </catDesc>
 	               </category>
-	            	<category xml:id="CH">
-	            		<catDesc>
-	            			<choice>
-	            				<abbr>CH</abbr>
-	            				<expan>Clothworkers' Hall</expan>
-	            			</choice>
-	            		</catDesc>
-	            	</category>
+	               <category xml:id="CH">
+	                  <catDesc>
+	                     <choice>
+	                        <abbr>CH</abbr>
+	                        <expan>Clothworkers' Hall</expan>
+	                     </choice>
+	                  </catDesc>
+	               </category>
 	               <category xml:id="CUL">
 	                  <catDesc>
 	                     <choice>
@@ -525,21 +525,21 @@
 	               </category>
 	               <category xml:id="DH">
 	                  <catDesc>
-	                  	<choice>
-	                  		<abbr>DH</abbr>
-	                  		<expan>Drapers' Hall</expan>
-	                  	</choice>	                  	
-	                  	</catDesc>
+	                     <choice>
+	                        <abbr>DH</abbr>
+	                        <expan>Drapers' Hall</expan>
+	                     </choice>	                  	
+	                  </catDesc>
 	               </category>
 	               <category xml:id="folger-shakespeare-library">
 	                  <catDesc>Folger Shakespeare Library</catDesc>
 	               </category>
 	               <category xml:id="GH">
 	                  <catDesc>
-	                  	<choice>
-	                  		<abbr>GH</abbr>
-	                  		<expan>Goldsmiths' Hall</expan>
-	                  	</choice>
+	                     <choice>
+	                        <abbr>GH</abbr>
+	                        <expan>Goldsmiths' Hall</expan>
+	                     </choice>
 	                  </catDesc>
 	               </category>
 	               <category xml:id="gonville-caius-library">
@@ -697,41 +697,63 @@
 	      </langUsage>
 	   </profileDesc>
    </teiHeader>
-  <text source="#LMA">
-      <body>
-         <div type="head">
-         	<head><title>Bakers' Audit Book</title></head>
-         </div>
-         <div type="record">
-         	<head><supplied>f 32v <date from-iso="1499" to-iso="1501">(1499–1501)</date> (Payments)</supplied></head>
-         	<pb type="folio" n="32v"/>
-         	<gap reason="omitted"/>
-         	<table>
-         		<row>
-         			<cell>It<ex>e</ex>m for the takyng vp of the pament where yo<ex>ur</ex>
-         				standding was the tyme the princes came oute of spayne in to london.
-         				vj d. It<ex>e</ex>m p<ex>ai</ex>d to tho<ex>m</ex>as A wode
-         				Carpent<ex>er</ex>. for xv. yearrd of lengithe Closid be
-         				fo<ex>ur</ex> &amp; be hynd be Cavse of pres of the peopill
-         				.xij. s. S<ex>u</ex>mma</cell>
-         			<cell>xij. s. vj d.</cell>
-         		</row>
-         		<row>
-         			<cell>It<ex>e</ex>m for the pavyng &amp; dreshing of the same pament
-         				Ageynne</cell>
-         			<cell>iij. s. iiij d.</cell>
-         		</row>
-         	</table>         			
-         		<gap reason="omitted"/>
-         	</div>
+    <text type="record">
+        <body>
+        	<div><head><title>Court of Aldermen, Repertory 1, <date from-iso="1500" to-iso="1501">1500–1</date></title>
+            </head></div>
+            <div type="transcription">
+                <div xml:lang="en">
+                	<head><supplied>f 87 <date when-iso="1501-07-27">(27 July)</date>
+                    </supplied></head>
+                    <pb n="87" type="folio"/>
+                    <gap reason="omitted"/> 
+                	<note type="marginal" place="margin_left"><handShift/>Regard<ex>a</ex> v<hi rend="superscript">C</hi>
+                		m<ex>a</ex>rc<ex>arum</ex>
+                		don<ex>atarum</ex>
+                		d<ex>omi</ex>ne kat<ex>er</ex>ine
+                		filie R<ex>egis</ex>
+                		Hispan<ex>ie</ex><handShift/></note>
+                	<ab>It is agreed that v<hi rend="superscript">C</hi> marc<ex>es</ex> shalbe providid for a gyft to be gyvyn to lady
+                		kat<ex>er</ex>yn kyng<ex>es</ex> doughter of spayn/ and in case the charg<ex>es</ex> of the cundite
+                		sette and made in powlis <del>charge</del> chyrcheyarde be layed to the cost<ex>es</ex> and
+                		charge of this cite that than their<ex>e</ex> shalbe abatid and deductid of the said
+                		su<ex>m</ex>me as much mony as the Cost<ex>es</ex> of the said cundite shall drawe and
+                		amounte to</ab>
+            <gap reason="omitted"/>
+                </div>
+            	<div xml:lang="en">
+            	<head><supplied>f 88v <date when-iso="1501-10-17">(17 October)</date>
+            	</supplied></head>
+                	<pb n="88v" type="folio"/>
+                	<gap reason="omitted"/> 
+                	<ab>It is agreed that eu<ex>er</ex>y ald<ex>er</ex>man shall bring ^
+                		<add place="above">in</add> <del>intv</del> to the co<ex>ur</ex>t the Rest
+                		of the mony Assessed<note type="foot">Assessed: <hi rend="italic">second</hi> ss <hi rend="italic">corrected</hi></note> in their ward<ex>es</ex> for the Receyvyng of the lady Kat<ex>er</ex>ine
+                		so that they haue the said Rest of all suche so<ex>m</ex>mes behynde vnpaide <del>at the
+                			next court <damage><gap unit="chars" extent="3"/></damage></del> by the xiij<hi rend="superscript"></hi>th day of this present monyth of october vppon
+                		parell that shall fall</ab>
+                	<gap reason="omitted"/> 
+                	
+        </div>
+            </div>
+        	<div type="endnote"><div><head>Endnote</head>
+        		<p>For details of the 12 November 1501 royal entry of Katherine of Aragon (coming to marry Prince Arthur,
+        			heir to the English throne), including the various pageants, see <ref target="https://cwrc.ca/islandora/object/reed%3A6cd7b092-fca1-4b8b-a388-e6a9ce10164e#page/1/mode/1up">Appendix 1</ref> under 1501–2. On 5 May
+        			1500, common council had approved a civic tax assessment of one-and-a-half fifteenths for the costs
+        			of the entry; see <ref target="https://cwrc.ca/islandora/object/reed%3A8c3f429b-5bf2-4f1e-b4fb-e7ea8ac2aacd">Journal 10, 1499–1500, f 187v</ref>.</p>
+        			<p>The court date for the record transcribed from f 88v is corrected in the manuscript from 22 October
+        			to apparently 17 October, but 17 October must also be an error, given the 13 October date within the
+        			record. The recto of f 88v is blank; the last item on f 87v is dated 27 July, and by f 89 John Shaa is
+        			mayor (1501–2). Further assessment details are provided on f 90v: in December 1501 a decision on
+        			assessment contributions by the sheriffs and the clerks of the mayor’s court and of the counter, and a
+        			note of the conclusion of a £20 assessment from the Mercers.</p></div></div>
+        	<div type="event">
+                <head>Event note:</head>
+                <p>This record refers to the royal entry of Katherine of Aragon on 12 November 1501.</p>
+            </div>
+        
+</body>
+</text>    
 
-         <!-- include the following only if there is an endnote for the record -->
-         <div type="event">
-            <head>Event note:</head>
-            <p>This record refers to the royal entry of Katherine of Aragon on 12 November 1501</p>
-         </div>
-      	
-      	
-      </body>
-  </text>
 </TEI>
+

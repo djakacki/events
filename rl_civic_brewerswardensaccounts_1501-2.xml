@@ -501,14 +501,14 @@
 	                     </choice>
 	                  </catDesc>
 	               </category>
-	            	<category xml:id="CH">
-	            		<catDesc>
-	            			<choice>
-	            				<abbr>CH</abbr>
-	            				<expan>Clothworkers' Hall</expan>
-	            			</choice>
-	            		</catDesc>
-	            	</category>
+	               <category xml:id="CH">
+	                  <catDesc>
+	                     <choice>
+	                        <abbr>CH</abbr>
+	                        <expan>Clothworkers' Hall</expan>
+	                     </choice>
+	                  </catDesc>
+	               </category>
 	               <category xml:id="CUL">
 	                  <catDesc>
 	                     <choice>
@@ -525,21 +525,21 @@
 	               </category>
 	               <category xml:id="DH">
 	                  <catDesc>
-	                  	<choice>
-	                  		<abbr>DH</abbr>
-	                  		<expan>Drapers' Hall</expan>
-	                  	</choice>	                  	
-	                  	</catDesc>
+	                     <choice>
+	                        <abbr>DH</abbr>
+	                        <expan>Drapers' Hall</expan>
+	                     </choice>	                  	
+	                  </catDesc>
 	               </category>
 	               <category xml:id="folger-shakespeare-library">
 	                  <catDesc>Folger Shakespeare Library</catDesc>
 	               </category>
 	               <category xml:id="GH">
 	                  <catDesc>
-	                  	<choice>
-	                  		<abbr>GH</abbr>
-	                  		<expan>Goldsmiths' Hall</expan>
-	                  	</choice>
+	                     <choice>
+	                        <abbr>GH</abbr>
+	                        <expan>Goldsmiths' Hall</expan>
+	                     </choice>
 	                  </catDesc>
 	               </category>
 	               <category xml:id="gonville-caius-library">
@@ -697,41 +697,58 @@
 	      </langUsage>
 	   </profileDesc>
    </teiHeader>
-  <text source="#LMA">
-      <body>
-         <div type="head">
-         	<head><title>Bakers' Audit Book</title></head>
-         </div>
-         <div type="record">
-         	<head><supplied>f 32v <date from-iso="1499" to-iso="1501">(1499–1501)</date> (Payments)</supplied></head>
-         	<pb type="folio" n="32v"/>
-         	<gap reason="omitted"/>
-         	<table>
-         		<row>
-         			<cell>It<ex>e</ex>m for the takyng vp of the pament where yo<ex>ur</ex>
-         				standding was the tyme the princes came oute of spayne in to london.
-         				vj d. It<ex>e</ex>m p<ex>ai</ex>d to tho<ex>m</ex>as A wode
-         				Carpent<ex>er</ex>. for xv. yearrd of lengithe Closid be
-         				fo<ex>ur</ex> &amp; be hynd be Cavse of pres of the peopill
-         				.xij. s. S<ex>u</ex>mma</cell>
-         			<cell>xij. s. vj d.</cell>
-         		</row>
-         		<row>
-         			<cell>It<ex>e</ex>m for the pavyng &amp; dreshing of the same pament
-         				Ageynne</cell>
-         			<cell>iij. s. iiij d.</cell>
-         		</row>
-         	</table>         			
-         		<gap reason="omitted"/>
-         	</div>
+    <text type="record">
+        <body>
+        	<div><head><title>Brewers’ Wardens’ Accounts, <date from-iso="1501" to-iso="1502">1501–2</date></title>
+            </head></div>
+            <div type="transcription">
+                <div xml:lang="en">
+                	<head><supplied>p [15] of 1501–2 account <date when-iso="1503-02-21">(Rendered 21 February 1502/3)</date> (Customary
+                		expenses)
+                    </supplied></head>
+                    <pb n="[15]" type="page"/>
+                	<gap reason="omitted"/>
+                	<table>
+                		<row><cell>It<ex>e</ex>m paid vnto Seynt <add place="above">Nicolas clerk<ex>es</ex></add> <del>Clerk<ex>es</ex></del> opon
+                			Seynt Nicolas Even</cell><cell>iiij d.</cell></row>
+                	</table>
+            <gap reason="omitted"/>
+                </div>
+            	<div xml:lang="en">
+            		<head><supplied>p [17] of 1501–2 account (Costs of various dinners)
+            	</supplied></head>
+                	<pb n="[17]" type="page"/>
+                	<gap reason="omitted"/> 
+            		<table>
+            			<row><cell>ffirst cost<ex>es</ex> made of A den<ex>er</ex> vnto the hole Company
+            				In the lyu<ex>er</ex>ey beyng p<ex>re</ex>sent with <del>the</del> Sir Iohn Shaa
+            				knyght then Maire<note type="foot">Sir ... Maire: <hi rend="italic">John Shaa, goldsmith</hi></note> In takyng his othe<note type="foot">takyng his othe: <hi rend="italic">the mayor’s oath-taking October 1501</hi></note> At westm<ex>inster</ex>
+            				the Barons of the kyng<ex>es</ex> escheker then kepyng ther
+            				co<ex>ur</ex>t at that tym In the kyng<ex>es</ex> Stondyng then at that
+            				tym ordendyned and made for the Iust<ex>es</ex> at the Mariage
+            				of p<ex>ri</ex>nce Arthur and Kat<ex>er</ex>yn secund dought<ex>er</ex> of kyng
+            				of Spayn<note type="foot">Mariage ... Spayn: <hi rend="italic">14 November</hi></note></cell><cell>liiij s. vj d.</cell></row>
+            		</table>
+                	<gap reason="omitted"/>      	
+        </div>
+            </div>
+        	<div type="endnote"><div><head>Endnote</head>
+        		<p>This is the company’s 1501–2 account, rendered 21 February 1502/3, running almost certainly from
+        			September to September (see Lancashire (ed), <title>Civic London to 1558</title>, p lxxxiv). The St Nicholas Eve specified in the payment
+        			transcribed from p [15] is thus in December 1501; for St Nicholas clerks in the Brewers’ records in
+        			general, see pp 1297–8, endnote to LMA: CLC/L/BF/D/001/MS05442/001 p [14] of the company’s
+        			1500–1 account. The record from p [17] has been included here because it provides an example of the
+        			kinds of physical problems the city’s mayoral oath-taking from time to time had to take into account.
+        			Katherine of Aragon married Prince Arthur (heir to the English throne) on 14 November in London,
+        			and went to Westminster on 16 November, where the court celebrations included jousts. For the civic
+        			details and dates, see <ref target="https://cwrc.ca/islandora/object/reed%3A6cd7b092-fca1-4b8b-a388-e6a9ce10164e#page/1/mode/1up">Appendix 1</ref> under 1501–2.</p></div></div>
+        	<div type="event">
+                <head>Event note:</head>
+                <p>This record refers to the presence of Katherine of Aragon at Westminster on 16 November 1501.</p>
+            </div>
+        
+</body>
+</text>    
 
-         <!-- include the following only if there is an endnote for the record -->
-         <div type="event">
-            <head>Event note:</head>
-            <p>This record refers to the royal entry of Katherine of Aragon on 12 November 1501</p>
-         </div>
-      	
-      	
-      </body>
-  </text>
 </TEI>
+

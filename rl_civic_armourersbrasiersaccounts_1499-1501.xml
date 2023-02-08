@@ -501,14 +501,14 @@
 	                     </choice>
 	                  </catDesc>
 	               </category>
-	            	<category xml:id="CH">
-	            		<catDesc>
-	            			<choice>
-	            				<abbr>CH</abbr>
-	            				<expan>Clothworkers' Hall</expan>
-	            			</choice>
-	            		</catDesc>
-	            	</category>
+	               <category xml:id="CH">
+	                  <catDesc>
+	                     <choice>
+	                        <abbr>CH</abbr>
+	                        <expan>Clothworkers' Hall</expan>
+	                     </choice>
+	                  </catDesc>
+	               </category>
 	               <category xml:id="CUL">
 	                  <catDesc>
 	                     <choice>
@@ -525,21 +525,21 @@
 	               </category>
 	               <category xml:id="DH">
 	                  <catDesc>
-	                  	<choice>
-	                  		<abbr>DH</abbr>
-	                  		<expan>Drapers' Hall</expan>
-	                  	</choice>	                  	
-	                  	</catDesc>
+	                     <choice>
+	                        <abbr>DH</abbr>
+	                        <expan>Drapers' Hall</expan>
+	                     </choice>	                  	
+	                  </catDesc>
 	               </category>
 	               <category xml:id="folger-shakespeare-library">
 	                  <catDesc>Folger Shakespeare Library</catDesc>
 	               </category>
 	               <category xml:id="GH">
 	                  <catDesc>
-	                  	<choice>
-	                  		<abbr>GH</abbr>
-	                  		<expan>Goldsmiths' Hall</expan>
-	                  	</choice>
+	                     <choice>
+	                        <abbr>GH</abbr>
+	                        <expan>Goldsmiths' Hall</expan>
+	                     </choice>
 	                  </catDesc>
 	               </category>
 	               <category xml:id="gonville-caius-library">
@@ -697,41 +697,57 @@
 	      </langUsage>
 	   </profileDesc>
    </teiHeader>
-  <text source="#LMA">
-      <body>
-         <div type="head">
-         	<head><title>Bakers' Audit Book</title></head>
-         </div>
-         <div type="record">
-         	<head><supplied>f 32v <date from-iso="1499" to-iso="1501">(1499–1501)</date> (Payments)</supplied></head>
-         	<pb type="folio" n="32v"/>
-         	<gap reason="omitted"/>
-         	<table>
-         		<row>
-         			<cell>It<ex>e</ex>m for the takyng vp of the pament where yo<ex>ur</ex>
-         				standding was the tyme the princes came oute of spayne in to london.
-         				vj d. It<ex>e</ex>m p<ex>ai</ex>d to tho<ex>m</ex>as A wode
-         				Carpent<ex>er</ex>. for xv. yearrd of lengithe Closid be
-         				fo<ex>ur</ex> &amp; be hynd be Cavse of pres of the peopill
-         				.xij. s. S<ex>u</ex>mma</cell>
-         			<cell>xij. s. vj d.</cell>
-         		</row>
-         		<row>
-         			<cell>It<ex>e</ex>m for the pavyng &amp; dreshing of the same pament
-         				Ageynne</cell>
-         			<cell>iij. s. iiij d.</cell>
-         		</row>
-         	</table>         			
-         		<gap reason="omitted"/>
-         	</div>
+    <text type="record">
+        <body>
+        	<div><head><title>Armourers and Brasiers’ Wardens’ Accounts, <date from-iso="1499" to-iso="1501">1499–1501</date></title>
+            </head></div>
+            <div type="transcription">
+                <div xml:lang="en">
+                    <head><supplied>f 24v (Costs and payments)
+                    </supplied></head>
+                    <pb n="24v" type="folio"/>
+                    <gap reason="omitted"/>   
+            <table>
+            	<row><cell>Item payd for ye hall when ye xv and di. was grant<ex>ed</ex></cell><cell>xij d.</cell></row>
+            	</table>
+            <gap reason="omitted"/>
+           
+        </div>
+            </div>
+        	<div type="endnote"><div><head>Endnote</head>
+        		<p>The first extant manuscript volume of the company’s wardens’ accounts first lists groups of receipts, for
+        			the years prior to 1521, and then lists groups of payments; the normal account format of a year’s or
+        			(in the case of the Armourers) two years’ receipts, followed by the payments for the same time period,
+        			begins only in 1521–3. Manuscript damage makes difficult the identification of some of the various
+        			pre-1521 lots of receipts and of payments, but a heading half-way down f 24v specifies the payments
+        			below it, which include the one transcribed here, to be the costs and payments of the company’s master
+        			in his second year, 16 Henry VII. On f 23v, the payments for his first year are headed 15 September
+        			15 Henry VII, that is, 15 September 1499. 16 Henry VII is 22 August 1500–21 August 1501, and the
+        			company’s accounting period for its later regular accounts nominally runs from one 24 June to the next
+        			in two years’ time, opening and closing in odd-numbered years, but with each account seeming normally
+        			to include at least some expenses past the nominal closing date, up to and including the biennial August
+        			feast time. Perhaps during the reign of Henry VII the company’s accounting year – like the accounting
+        			years of the Carpenters and of the Drapers – became conflated with the regnal year, and the second year
+        			of two years’ of payments, dated 16 Henry VII, would thus have been roughly August 1500–August 1501,
+        			with the 15 September 1499 date at the top of the first year of payments being an opening date. If,
+        			however, the 15 September 1499 date on f 23v is a closing date for the first year of payments, the second
+        			year of payments would have been 15 September 1499 to late August/September 1500, with 16 Henry VII
+        			referring simply to the regnal year of the payments’ close. Whatever the case, this payment cannot have
+        			taken place before the approval of the civic assessment to which it apparently refers (in May 1500; see
+        			<ref target="https://cwrc.ca/islandora/object/reed%3A8c3f429b-5bf2-4f1e-b4fb-e7ea8ac2aacd">Journal 10, f 187v</ref>). The assessment was for costs of the royal entry of Katherine
+        			of Aragon; the entry took place in November 1501.</p>
+        			<p>This payment from f 24v is perhaps not the Armourers’ payment of the Aragon assessment, even
+        			though it appears to refer to it. The amount is extremely small, and the Armourers later pay 4s or 5s
+        			as their fifteenth and a half for the city’s assessments for the royal entries of <ref target="https://cwrc.ca/islandora/object/reed%3Aa76c9f12-a035-4dd1-93d1-b358f2b5bf47">1533</ref>, <ref target="https://cwrc.ca/islandora/object/reed%3A3784f5c7-bf92-4980-8832-d51d549af168">1553</ref>, and <ref target="https://cwrc.ca/islandora/object/reed%3A6d733153-c482-4ca0-a878-abb33f38141c">1554</ref>. (See
+        			The Records, pp 510, 769, and 792.) The wealthy Drapers’ Company, however, is recorded as paying
+        			only 3s for this assessment (see The Records, p 264, under 1499–1500).</p></div></div>
+        	<div type="event">
+                <head>Event note:</head>
+                <p>This record refers to the royal entry of Katherine of Aragon on 12 November 1501.</p>
+            </div>
+        
+</body>
+</text>    
 
-         <!-- include the following only if there is an endnote for the record -->
-         <div type="event">
-            <head>Event note:</head>
-            <p>This record refers to the royal entry of Katherine of Aragon on 12 November 1501</p>
-         </div>
-      	
-      	
-      </body>
-  </text>
 </TEI>
+
